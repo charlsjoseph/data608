@@ -1,0 +1,11 @@
+
+Question 1:
+Code is uploaded into git -  https://github.com/charlsjoseph/data608/tree/master/module3/output/crude_mortality_byState
+
+deployed app visualisation : https://charlsjoseph.shinyapps.io/crude_mortality_bystate/
+
+Question 2 :
+Code is uploaded into git -  https://github.com/charlsjoseph/data608/tree/master/module3/output/mortality_rate_deviation
+
+deployed app visualisation :  https://charlsjoseph.shinyapps.io/mortality_rate_deviation/
+
