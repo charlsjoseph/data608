@@ -2,7 +2,7 @@ library(shiny)
 library(plotly)
 library(dplyr)
 
-mortalityData <- read.csv(file="./data/cleaned-cdc-mortality-1999-2010-2.csv", header=TRUE, sep=",")
+mortalityData <- read.csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module3/data/cleaned-cdc-mortality-1999-2010-2.csv", header=TRUE, sep=",")
 
 # get all states 
 states <- unique(mortalityData$State)
