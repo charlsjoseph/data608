@@ -1,0 +1,10 @@
+name: crude_mortality_bystate
+title:
+username:
+account: charlsjoseph
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1322446
+bundleId: 2497188
+url: https://charlsjoseph.shinyapps.io/crude_mortality_bystate/
+when: 1571002258.0942
