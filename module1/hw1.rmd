@@ -1,0 +1,157 @@
+---
+title: "Data 608 : Project-1"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+**Principles of Data Visualization and Introduction to ggplot2**
+
+I have provided you with data about the 5,000 fastest growing companies in the US, as compiled by Inc. magazine. lets read this in:
+
+```{r}
+
+inc <- read.csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module1/Data/inc5000_data.csv", header= TRUE)
+
+```
+
+And lets preview this data:
+
+```{r}
+
+head(inc)
+
+```
+```{r}
+
+summary(inc)
+
+```
+
+Think a bit on what these summaries mean. Use the space below to add some more relevant non-visual exploratory information you think helps you understand this data:
+
+```{r}
+inc <- inc[complete.cases(inc),]
+# top 5 industries with a maximum employees. 
+knitr::kable(group_by(inc, Industry) %>% summarize(Count=n()) %>% arrange(desc(Count)) %>% top_n(5))
+# top 5 Cities with a maximum employees. 
+knitr::kable(group_by(inc, City) %>% summarize(Count=n()) %>% arrange(desc(Count)) %>% top_n(5))
+
+```
+
+## Question 1
+
+Create a graph that shows the distribution of companies in the dataset by State (ie how many are in each state). There are a lot of States, so consider which axis you should use. This visualization is ultimately going to be consumed on a 'portrait' oriented screen (ie taller than wide), which should further guide your layout choices.
+
+
+```{r}
+
+# Get a list of counts by state
+stateCount <- group_by(inc, State) %>%
+  summarize(Count=n()) 
+
+# Plot results
+
+
+ggplot(data = stateCount,
+       aes(x = reorder(State, Count), y = Count))+
+  geom_bar(stat = "identity")+
+  coord_flip() +
+  ggtitle("Distribution of 5,000 Fastest Growing Companies") + 
+  labs( x = "State", y = "No of Companies")  +
+  theme_gray(base_size = 6)
+
+
+```
+
+## Quesiton 2
+
+Lets dig in on the state with the 3rd most companies in the data set. Imagine you work for the state and are interested in how many people are employed by companies in different industries. Create a plot that shows the average and/or median employment by industry for companies in this state (only use cases with full data, use R's `complete.cases()` function.) In addition to this, your graph should show how variable the ranges are, and you should deal with outliers.
+
+```{r}
+# Get NY industry employees data
+nydata <- filter(inc, State=="NY")
+
+# plot the boxplot to identify the range and the presence of outliers.
+ggplot(aes(x=Industry, y=Employees), data = nydata) + 
+  stat_boxplot(geom ='errorbar') +
+  geom_boxplot() + 
+  ggtitle("NY - Employee Count per Industry*") + labs(x = "", y = "") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust=0.3),
+        axis.ticks.x = element_blank())
+```
+
+Above box plots are so much shrinked and there is a presence of outliers. We can remove the outliers by filtering the data which lies below the lower fence(Q1-1.5 IQR) and above the upper fence(Q3 + 1.5 IQR)
+
+```{r}
+# clean the outliers
+
+temp <- nydata %>% 
+  group_by(Industry) %>% 
+  mutate(iqr=IQR(Employees),q3=quantile(Employees)["75%"],q1=quantile(Employees)["25%"]) %>% 
+  mutate(upper_lim=q3+1.5*iqr,lower_lim=q1-1.5*iqr)
+
+noOutlier_nydata<- temp[which(temp$Employees<=temp$upper_lim & temp$Employees>=temp$lower_lim),]
+
+```
+
+Below is the boxplot after removing all the outliers
+
+```{r}
+
+#plot the box plot with all outlier removed 
+ggplot(aes(x=Industry, y=Employees), data = noOutlier_nydata) + 
+  stat_boxplot(geom ='errorbar') +
+  geom_boxplot() + 
+  ggtitle("NY  - Employee Count per Industry") + labs(x = "", y = "") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust=0.3),
+        axis.ticks.x = element_blank())
+
+```
+
+
+
+```{r}
+# get the avg 
+avgSummary_NY <- noOutlier_nydata %>% 
+  group_by(Industry) %>% 
+  summarise(avg=mean(Employees))
+  # distribution of average employment for that State
+ggplot(avgSummary_NY,aes(x=reorder(Industry, avg),y=avg))+
+  geom_bar(stat = "identity")+
+  coord_flip()+
+  theme_classic()+
+  labs(title="Employees", x="Industry",y="Average employees")
+
+
+```
+
+## Question 3
+
+Now imagine you work for an investor and want to see which industries generate the most revenue per employee. Create a chart that makes this information clear. Once again, the distribution per industry should be shown.
+
+```{r}
+# Get a list of counts by state
+byIndustry <- group_by(inc, Industry) %>%
+  summarize(total_rev= sum(Revenue),noofEmp=sum(Employees)) %>% mutate(avg_rev_emp=total_rev/noofEmp)
+
+knitr::kable(byIndustry)
+
+ggplot(byIndustry,aes(x=byIndustry$Industry,y=avg_rev_emp))+
+  geom_bar(stat = "identity")+
+  coord_flip()+
+  theme_classic()+
+  labs(title="Revenue/Employee", x="Industry",y="Average revenue per employee")
+
+
+
+
+
+```
+
+
