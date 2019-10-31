@@ -1,23 +1,13 @@
-# -*- coding: utf-8 -*-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
-import numpy as np
 from dash.dependencies import Input, Output, State
 from plotly import graph_objs as go
-from plotly.graph_objs import *
-import plotly.offline as py
-import plotly.graph_objs as go
-from plotly import tools
-import plotly.figure_factory as ff
-
-
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
+server = app.server
 #select distinct boronames
 soql_url = ('https://data.cityofnewyork.us/resource/nwxe-4ae8.json?' +\
         '$select=distinct(boroname)')
@@ -29,49 +19,6 @@ soql_url = ('https://data.cityofnewyork.us/resource/nwxe-4ae8.json?' +\
         '$select=distinct(spc_common)')
 spc_common = pd.read_json(soql_url).sort_values(['spc_common_1'], ascending=[True])
 
-alltree_url = ('https://data.cityofnewyork.us/resource/nwxe-4ae8.json?' +\
-        '$select=*' +\
-        '&$where=steward is not null and health  is not null').replace(' ', '%20')
-
-trees = pd.read_json(alltree_url)
-trees['BiVariateCatg'] = trees['steward'].astype(str) + '|' +  trees['health'].astype(str)
-trees['BiVariateCatg'] = pd.Categorical(trees['BiVariateCatg'])
-import datashader as ds
-import datashader.transfer_functions as tf
-import datashader.glyphs
-from datashader import reductions
-from datashader.core import bypixel
-from datashader.utils import lnglat_to_meters as webm, export_image
-from datashader.colors import colormap_select, Greys9, viridis, inferno
-from functools import partial
-#Defining some helper functions for DataShader
-background = "black"
-export = partial(export_image, background = background, export_path="export")
-cm = partial(colormap_select, reverse=(background!="black"))
-
-
-colorscale_seq = {'None|Poor' : "#543005", 'None|Good' : "#8c510a", 'None|Fair' : "#bf812d",
-              '1or2|Poor' : "#dfc27d", '1or2|Good' : "#f6e8c3", '1or2|Fair' : "#f5f5f5", 
-              '3or4|Poor' :"#c7eae5",'3or4|Good' : "#c7eae5", '3or4|Fair': "#80cdc1", 
-              '4orMore|Poor' : "#35978f",'4orMore|Good' : "#01665e", '4orMore|Fair' : "#003c30"
-             }
-
-colorscale_df = {'None|Poor' : "#2ca25f", 'None|Good' : "#e5f5f9", 'None|Fair' : "#99d8c9",
-              '1or2|Poor' : "#b3cde3", '1or2|Good' : "#fdcc8a", '1or2|Fair' : "#CBD2AA", 
-              '3or4|Poor' :"#8c96c6",'3or4|Good' : "#C5B1A8", '3or4|Fair': "#fc8d59", 
-              '4orMore|Poor' : "#88419d",'4orMore|Good' : "#FDCC8A", '4orMore|Fair' : "#d7301f"
-             }
-
-
-
-
-#['#543005','#8c510a','#bf812d','#dfc27d','#f6e8c3','#f5f5f5','#c7eae5','#80cdc1','#35978f','#01665e','#003c30']
-NewYorkCity   = (( -74.29,  -73.69), (40.49, 40.92))
-cvs = ds.Canvas(1000, 1000, *NewYorkCity)
-ds.count_cat('BiVariateCatg')
-agg = cvs.points(trees, 'longitude', 'latitude', ds.count_cat('BiVariateCatg'))
-view = tf.shade(agg, color_key = colorscale_df)
-img = export(tf.spread(view, px=1), 'choropleth')
 
 app.layout = html.Div(
     html.Div([
@@ -125,7 +72,17 @@ app.layout = html.Div(
             ],
             className='row'
         ),
-
+        html.Div(
+                    [
+                        html.H6('Filter no stweard activities:'),
+                        dcc.Checklist(id = 'stewardact',
+                                      options=[{'label': 'Steward', 'value': 'N'}],
+                                      value=['Y']
+                                ),
+                    ],
+                    className='two columns',
+                    style={'margin-top': '10'}
+        ),                
         # Map + table + Histogram
         html.Div(
             [
@@ -133,22 +90,14 @@ app.layout = html.Div(
                         dcc.Graph(
                             id='bar-graph'
                         )
-                    ], className= 'twelve columns'
-                    )
-            ], className="row"
-        ),
-        
-        html.Div(
-            [   
-                html.H3(children='Correlation between Health V/S Steward activities',
-                        className='nine columns'),
-                html.Img(
-                src="ny_choropleth.png",
-                className='nine columns',
-            ),
+                    ], className= 'twelve columns'),
+                html.Div([
+                        html.Img(
+                src=app.get_asset_url('ny_choropleth.png')
+            )
+                    ], className= 'twelve columns')
             ], className="row"
         )
-                        
         
     ], className='ten columns offset-by-one'))
 
@@ -201,7 +150,8 @@ def update_figure(boroughs, species):
     return fig
 
 
-
+   
+      
 if __name__ == '__main__':
     app.run_server(debug=True)
 	
