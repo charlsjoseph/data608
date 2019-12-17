@@ -25,9 +25,8 @@ svg.append("text")
     .text("Top Polluted States/Counties: Based on number of times AQI crossed 200 limit (Very Un-Healthy)");
 
 var topStates 
-var baseUrl = 'https://app215371.herokuapp.com'
 // Parse the Data
-d3.json("https://app215371.herokuapp.com/toppolutedcounties", function(data) {
+d3.json("http://localhost:5000/toppolutedcounties", function(data) {
 
 var keys = [ 'NO2-AQI' ,'SO2-AQI' ,'CO-AQI', 'O3-AQI' ];
 

@@ -4,7 +4,7 @@ function updateLineChart() {
   console.log(statecounty)
   d3.select("#linechart").selectAll("*").remove();
   d3.select("#tooltip1").selectAll("*").remove();
-  var url = 'http://app215371.herokuapp.com/monthlydata?state=' + statecounty.split('-')[0] + '&county=' + statecounty.split('-')[1]
+  var url = 'http://localhost:5000/monthlydata?state=' + statecounty.split('-')[0] + '&county=' + statecounty.split('-')[1]
 	console.log(url)
     var glines
       var mouseG
