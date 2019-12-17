@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="static/css/bootstrap.min.css">
+<!-- jQuery UI CSS -->
+<link rel="stylesheet" href="static/css/jquery-ui.min.css">
+<link rel="stylesheet" href="static/css/jquery-ui.structure.min.css">
+<link rel="stylesheet" href="static/css/jquery-ui.theme.min.css">
+
+	
+	
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v0.min.js"></script>
+
+<script src="static/js/jquery.min.js"></script>
+<script src="static/js/jquery-ui.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
+<script src="//d3js.org/d3.v4.js"></script>
+<script src="static/js/chorpleth.js"></script>
+<script src="static/js/barchart.js"></script>
+<script src="static/js/linechart.js"></script>
+
+	
+<style>
+
+/* On mouse hover, lighten state color */
+path:hover {
+	fill-opacity: .7;
+}
+
+        
+/* Legend Font Style */
+body {
+	font: 11px sans-serif;
+}
+        
+/* Legend Position Style */
+.legend {
+	position:absolute;
+	left:800px;
+	top:350px;
+}
+
+	.state{
+		fill: none;
+		stroke: #a9a9a9;
+		stroke-width: 1;
+	}
+	.state:hover{
+		fill-opacity:0.5;
+	}
+	.tooltip {   
+		position: absolute;           
+		text-align: center;
+		padding: 20px;             
+		margin: 10px;
+		font: 12px sans-serif;        
+		background: lightsteelblue;   
+		border: 1px;      
+		border-radius: 2px;           
+		pointer-events: none;         
+	}
+	.tooltip h4{
+		margin:0;
+		font-size:14px;
+	}
+	.tooltip{
+		background:rgba(0,0,0,0.9);
+		border:1px solid grey;
+		border-radius:5px;
+		font-size:12px;
+		width:auto;
+		padding:4px;
+		color:white;
+		opacity:0;
+	}
+	.tooltip table{
+		table-layout:fixed;
+	}
+	.tooltip tr td{
+		padding:0;
+		margin:0;
+	}
+	.tooltip tr td:nth-child(1){
+		width:50px;
+	}
+	.tooltip tr td:nth-child(2){
+		text-align:center;
+	}
+
+</style>
+</head>
+<body>
+<div class="tooltip"></div><!-- div to hold tooltip. -->
+
+        <div class="container">
+        </br>
+			<div class="row">
+			<div class="col-md-10">
+					<label style="font-size: 25px;" >Analysis on Air Quality Index - United States 2000 - 2019 </label>     
+			</div>	
+
+			<div class="col-md-1">
+				<img id="logo" src="static/img/airquality.png">      
+			</div>
+			
+
+        </div>
+        </div>
+
+    <div class="container-fluid" style="border:2px solid #cecece">
+        <div class="row">
+		
+			 <div class="col-md-1" >
+             </div>
+            <div class="col-md-3">
+                <div id="slider-div">
+                    <label style="font-size: 15px;">Year: </label>
+                    <div id="date-slider"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row" >
+            <div class="col-md-6" >
+				<svg width="900" height="600" id="statesvg"></svg> <!-- svg to hold the map. -->
+            </div> 
+			 <div class="col-md-6">
+				<svg width="900" height="600" id="topcounties"></svg> <!-- svg to hold the map. -->
+            </div> 
+        </div>
+		<div class="row">
+             <div class="col-sm-2">
+                <label style="font-size: 16px; ">State/County: </span></label>
+                <select class="form-control" id='state-county' name='county' onChange="updateLineChart()">
+                </select>
+            </div>
+		</div>
+
+		<div class="row">
+			<div id="tooltip1">
+            </div> 
+			<div class="col-md-10">
+				<svg width="900" height="600" id="linechart"></svg> <!-- svg to hold the map. -->
+            </div> 
+        </div>
+    </div>
+
+	
+	
+<script type="text/javascript">
+
+/*  This visualization was made possible by modifying code provided by:
+
+Scott Murray, Choropleth example from "Interactive Data Visualization for the Web" 
+https://github.com/alignedleft/d3-book/blob/master/chapter_12/05_choropleth.html   
+		
+Malcolm Maclean, tooltips example tutorial
+http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html
+
+Mike Bostock, Pie Chart Legend
+http://bl.ocks.org/mbostock/3888852  */
+
+
+	$("#date-slider").slider({
+    max: 2019,
+    min: 2000,
+    step: 1,
+	value: 2014,
+	slide: function(event, ui){
+        year = ui.value ;
+		//$("#year")[0].innerHTML = year
+		updatemap(year, "http://app215371.herokuapp.com/fetch_pol_data?year=")
+
+    }
+	})
+// render chorpleth map
+updatemap(2013, "http://app215371.herokuapp.com/fetch_pol_data?year=");
+
+// render barchart
+updatebarchart();
+
+	
+	
+</script>
+</body>
+</html>

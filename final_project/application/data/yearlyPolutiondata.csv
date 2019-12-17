@@ -1,0 +1,1079 @@
+State,year,County,City,Date Local,CO AQI,NO2 AQI,O3 AQI,SO2 AQI,AQI
+Alabama,2000,Sumter,Wetumpka,2000-12-31,113.0,48.0,214.0,200.0,214.0
+Alabama,2001,Tuscaloosa,Wetumpka,2001-12-31,143.5,43.0,197.0,150.0,197.0
+Alabama,2002,Walker,Wetumpka,2002-12-31,89.0,40.0,207.0,200.0,207.0
+Alabama,2003,Tuscaloosa,Wetumpka,2003-12-31,37.5,39.0,182.0,199.0,199.0
+Alabama,2004,Tuscaloosa,Wetumpka,2004-12-31,50.0,47.0,179.0,200.0,200.0
+Alabama,2005,Tuscaloosa,Wetumpka,2005-12-31,56.5,25.0,179.0,131.0,179.0
+Alabama,2006,Tuscaloosa,Wetumpka,2006-12-31,54.5,0.0,204.0,117.0,204.0
+Alabama,2007,Tuscaloosa,Wetumpka,2007-12-31,85.0,0.0,203.0,120.0,203.0
+Alabama,2008,Tuscaloosa,Wetumpka,2008-12-31,64.0,0.0,166.0,102.0,166.0
+Alabama,2009,Tuscaloosa,Wetumpka,2009-12-31,52.0,0.0,150.0,65.0,150.0
+Alabama,2010,Tuscaloosa,Wetumpka,2010-12-31,25.0,0.0,166.0,76.0,166.0
+Alabama,2011,Tuscaloosa,Wetumpka,2011-12-31,26.0,0.0,182.0,106.0,182.0
+Alabama,2012,Tuscaloosa,Wetumpka,2012-12-31,45.0,0.0,172.0,91.0,172.0
+Alabama,2013,Tuscaloosa,Wetumpka,2013-12-31,32.0,43.0,119.0,92.0,119.0
+Alabama,2014,Tuscaloosa,Wetumpka,2014-12-31,27.0,65.0,119.0,97.0,119.0
+Alabama,2015,Tuscaloosa,Wetumpka,2015-12-31,26.0,45.5,147.0,69.0,147.0
+Alabama,2016,Tuscaloosa,Wetumpka,2016-12-31,18.0,103.0,151.0,80.0,151.0
+Alabama,2017,Tuscaloosa,Wetumpka,2017-12-31,19.0,39.0,129.0,103.0,129.0
+Alabama,2018,Tuscaloosa,Wetumpka,2018-12-31,18.0,40.5,156.0,124.0,156.0
+Alabama,2019,Tuscaloosa,Wetumpka,2019-07-31,0.0,61.0,122.0,102.0,122.0
+Alaska,2000,Fairbanks North Star ,Not in a city,2000-12-31,110.33333333333333,0.0,43.0,0.0,110.33333333333333
+Alaska,2001,Fairbanks North Star ,Not in a city,2001-12-31,77.0,0.0,71.0,0.0,77.0
+Alaska,2002,Fairbanks North Star ,Not in a city,2002-12-31,71.0,0.0,77.0,0.0,77.0
+Alaska,2003,Fairbanks North Star ,Not in a city,2003-12-31,68.75,0.0,71.0,0.0,71.0
+Alaska,2004,Fairbanks North Star ,Not in a city,2004-12-31,66.25,0.0,80.0,0.0,80.0
+Alaska,2005,Fairbanks North Star ,Not in a city,2005-12-31,53.0,0.0,50.0,0.0,53.0
+Alaska,2006,Fairbanks North Star ,Not in a city,2006-12-31,42.25,0.0,67.0,0.0,67.0
+Alaska,2007,Fairbanks North Star ,Not in a city,2007-12-31,43.0,0.0,51.0,0.0,51.0
+Alaska,2008,Fairbanks North Star ,Not in a city,2008-12-31,44.75,0.0,119.0,0.0,119.0
+Alaska,2009,Fairbanks North Star ,Not in a city,2009-12-31,44.5,0.0,54.0,0.0,54.0
+Alaska,2010,Fairbanks North Star ,Not in a city,2010-12-31,56.0,0.0,49.0,0.0,56.0
+Alaska,2011,Matanuska-Susitna ,Wasilla,2011-12-31,48.0,0.0,61.0,69.0,69.0
+Alaska,2012,Matanuska-Susitna ,Wasilla,2012-12-31,45.0,0.0,58.0,77.0,77.0
+Alaska,2013,Fairbanks North Star ,Not in a city,2013-12-31,43.0,0.0,51.0,66.0,66.0
+Alaska,2014,Matanuska-Susitna ,Wasilla,2014-12-31,31.0,102.0,80.0,59.0,102.0
+Alaska,2015,Matanuska-Susitna ,Palmer,2015-12-31,43.0,87.0,64.0,72.0,87.0
+Alaska,2016,Matanuska-Susitna ,Palmer,2016-12-31,41.0,67.0,54.0,62.0,67.0
+Alaska,2017,Matanuska-Susitna ,Palmer,2017-12-31,42.0,63.0,49.0,59.0,63.0
+Alaska,2018,Matanuska-Susitna ,Palmer,2018-12-31,33.0,67.0,58.0,60.0,67.0
+Alaska,2019,Fairbanks North Star ,Not in a city,2019-08-31,0.0,65.0,54.0,57.0,65.0
+Arizona,2000,Yuma,Yuma,2000-12-31,57.888888888888886,132.0,174.0,166.0,174.0
+Arizona,2001,Yuma,Yuma,2001-12-31,53.55555555555556,99.0,185.0,200.0,200.0
+Arizona,2002,Yavapai,Tucson,2002-12-31,49.55555555555556,82.66666666666667,172.0,200.0,200.0
+Arizona,2003,Yuma,Yuma,2003-12-31,47.75,78.5,195.0,200.0,200.0
+Arizona,2004,Yuma,Yuma,2004-12-31,42.285714285714285,77.5,147.0,200.0,200.0
+Arizona,2005,Yuma,Yuma,2005-12-31,42.285714285714285,96.75,182.0,200.0,200.0
+Arizona,2006,Yuma,Yuma,2006-12-31,40.0,80.0,172.0,200.0,200.0
+Arizona,2007,Yuma,Yuma,2007-12-31,34.714285714285715,71.5,150.0,200.0,200.0
+Arizona,2008,Yuma,Yuma,2008-12-31,25.571428571428573,69.25,150.0,200.0,200.0
+Arizona,2009,Yuma,Yuma,2009-12-31,33.0,62.25,136.0,200.0,200.0
+Arizona,2010,Yuma,Yuma,2010-12-31,33.0,64.5,147.0,200.0,200.0
+Arizona,2011,Yuma,Yuma,2011-12-31,36.0,60.333333333333336,166.0,169.0,169.0
+Arizona,2012,Yuma,Yuma,2012-12-31,29.2,74.75,166.0,200.0,200.0
+Arizona,2013,Yuma,Yuma,2013-12-31,21.666666666666668,61.0,141.33333333333334,200.0,200.0
+Arizona,2014,Yuma,Yuma,2014-12-31,28.333333333333332,101.0,166.0,200.0,200.0
+Arizona,2015,Yuma,Yuma,2015-12-31,23.0,57.25,147.0,200.0,200.0
+Arizona,2016,Yuma,Yuma,2016-12-31,25.857142857142858,60.25,122.0,200.0,200.0
+Arizona,2017,Yuma,Yuma,2017-12-31,26.75,62.0,161.0,200.0,200.0
+Arizona,2018,Yuma,Yuma,2018-12-31,33.25,61.5,151.0,184.0,184.0
+Arizona,2019,Yuma,Yuma,2019-09-30,0.0,54.25,140.0,187.0,187.0
+Arkansas,2000,Union,Not in a city,2000-12-31,33.0,84.0,177.0,145.0,177.0
+Arkansas,2001,Union,Not in a city,2001-12-31,30.0,88.0,192.0,129.0,192.0
+Arkansas,2002,Union,Not in a city,2002-12-31,59.0,80.0,202.0,59.0,202.0
+Arkansas,2003,Union,Not in a city,2003-12-31,27.0,78.0,203.0,181.0,203.0
+Arkansas,2004,Union,Not in a city,2004-12-31,22.0,61.0,154.0,80.0,154.0
+Arkansas,2005,Union,Not in a city,2005-12-31,24.0,103.0,202.0,116.0,202.0
+Arkansas,2006,Washington,Springdale,2006-12-31,30.0,65.0,195.0,89.0,195.0
+Arkansas,2007,Washington,Springdale,2007-12-31,31.0,102.0,177.0,44.0,177.0
+Arkansas,2008,Washington,Springdale,2008-12-31,20.0,54.0,172.0,91.0,172.0
+Arkansas,2009,Washington,Springdale,2009-12-31,17.0,47.0,143.0,128.0,143.0
+Arkansas,2010,Washington,Springdale,2010-12-31,17.0,79.0,164.0,72.0,164.0
+Arkansas,2011,Washington,Springdale,2011-12-31,16.0,64.0,161.0,54.0,161.0
+Arkansas,2012,Washington,Springdale,2012-12-31,17.5,62.0,156.0,200.0,200.0
+Arkansas,2013,Washington,Springdale,2013-12-31,13.0,49.0,112.0,34.0,112.0
+Arkansas,2014,Washington,Springdale,2014-12-31,13.5,54.0,115.0,89.0,115.0
+Arkansas,2015,Washington,Springdale,2015-12-31,11.0,54.0,101.0,85.0,101.0
+Arkansas,2016,Washington,Springdale,2016-12-31,10.0,43.0,159.0,158.0,159.0
+Arkansas,2017,Washington,Springdale,2017-12-31,18.0,42.0,140.0,13.0,140.0
+Arkansas,2018,Washington,Springdale,2018-12-31,10.0,42.0,115.0,11.0,115.0
+Arkansas,2019,Washington,Springdale,2019-09-30,0.0,44.0,119.0,39.0,119.0
+California,2000,Yolo,Yuba City,2000-12-31,143.5,122.0,246.0,141.0,246.0
+California,2001,Yolo,Yuba City,2001-12-31,117.0,129.0,241.0,167.0,241.0
+California,2002,Yolo,Yuba City,2002-12-31,111.0,131.0,241.0,158.0,241.0
+California,2003,Yolo,Yuba City,2003-12-31,120.0,113.0,251.0,127.0,251.0
+California,2004,Yolo,Yuba City,2004-12-31,83.5,108.0,242.0,107.0,242.0
+California,2005,Yolo,Yuba City,2005-12-31,70.5,108.0,242.0,64.0,242.0
+California,2006,Yolo,Yuba City,2006-12-31,74.5,108.0,239.0,153.0,239.0
+California,2007,Yolo,Yuba City,2007-12-31,65.0,102.0,234.0,135.0,234.0
+California,2008,Yolo,Yuba City,2008-12-31,49.0,106.0,227.0,155.0,227.0
+California,2009,Yolo,Yuba City,2009-12-31,64.0,105.0,224.0,40.0,224.0
+California,2010,Yolo,Yuba City,2010-12-31,51.0,108.0,219.0,71.0,219.0
+California,2011,Yolo,Yuba City,2011-12-31,67.0,106.0,233.0,72.0,233.0
+California,2012,Yolo,Yuba City,2012-12-31,55.0,110.0,207.5,91.0,207.5
+California,2013,Yolo,Yuba City,2013-12-31,76.0,111.0,218.0,132.0,218.0
+California,2014,Yolo,Yuba City,2014-12-31,43.0,107.0,205.0,58.5,205.0
+California,2015,Yolo,Yuba City,2015-12-31,57.0,104.0,223.0,52.0,223.0
+California,2016,Yolo,Yuba City,2016-12-31,100.0,124.0,217.0,41.0,217.0
+California,2017,Yolo,Yuba City,2017-12-31,60.0,105.0,233.0,101.0,233.0
+California,2018,Yolo,Yuba City,2018-12-31,156.0,84.0,221.0,40.0,221.0
+California,2019,Yolo,Yuba City,2019-09-30,0.0,102.0,200.0,194.0,200.0
+Canada,2000,New Brunswick,Not in a city,2000-09-30,0.0,0.0,90.0,0.0,90.0
+Canada,2001,New Brunswick,Not in a city,2001-10-08,0.0,0.0,115.0,0.0,115.0
+Canada,2002,Saskatchewan,Not in a city,2002-12-31,0.0,109.0,100.0,169.0,169.0
+Canada,2003,Saskatchewan,Not in a city,2003-12-31,0.0,91.0,87.0,142.0,142.0
+Canada,2004,Saskatchewan,Not in a city,2004-12-31,0.0,55.0,140.0,200.0,200.0
+Canada,2005,Saskatchewan,Not in a city,2005-12-31,0.0,55.0,87.0,134.0,134.0
+Colorado,2000,Weld,Welby,2000-12-31,74.0,109.0,159.0,106.0,159.0
+Colorado,2001,Weld,Welby,2001-12-31,53.0,112.0,161.0,140.0,161.0
+Colorado,2002,Weld,Welby,2002-12-31,74.0,112.0,172.0,113.0,172.0
+Colorado,2003,Weld,Welby,2003-12-31,41.0,108.0,215.0,101.0,215.0
+Colorado,2004,Weld,Welby,2004-12-31,54.0,104.0,136.0,79.0,136.0
+Colorado,2005,Weld,Welby,2005-12-31,35.0,103.0,164.0,75.0,164.0
+Colorado,2006,Weld,Welby,2006-12-31,39.0,114.0,177.0,72.0,177.0
+Colorado,2007,Weld,Welby,2007-12-31,31.0,103.0,200.0,176.0,200.0
+Colorado,2008,Weld,Welby,2008-12-31,43.0,98.0,174.0,72.0,174.0
+Colorado,2009,Weld,Welby,2009-12-31,31.0,83.0,151.0,64.0,151.0
+Colorado,2010,Weld,Welby,2010-12-31,33.0,84.0,164.0,91.0,164.0
+Colorado,2011,Weld,Welby,2011-12-31,30.0,94.0,197.0,71.0,197.0
+Colorado,2012,Weld,Welby,2012-12-31,31.0,84.0,190.0,67.0,190.0
+Colorado,2013,Weld,Welby,2013-12-31,50.0,87.0,201.0,111.0,201.0
+Colorado,2014,Weld,Welby,2014-12-31,27.0,102.0,150.0,104.0,150.0
+Colorado,2015,Weld,Welby,2015-12-31,32.0,94.0,169.0,105.0,169.0
+Colorado,2016,Weld,Welby,2016-12-31,23.5,82.0,159.0,82.0,159.0
+Colorado,2017,Weld,Welby,2017-12-31,17.0,80.0,140.0,71.0,140.0
+Colorado,2018,Weld,Welby,2018-12-31,39.5,92.0,174.0,23.0,174.0
+Colorado,2019,Weld,Welby,2019-09-30,0.0,84.0,154.0,71.0,154.0
+Connecticut,2000,Windham,Westport,2000-12-31,49.5,95.0,220.0,97.0,220.0
+Connecticut,2001,Windham,Westport,2001-12-31,41.0,95.0,229.0,103.0,229.0
+Connecticut,2002,Windham,Westport,2002-12-31,65.0,103.0,230.0,100.0,230.0
+Connecticut,2003,Windham,Westport,2003-12-31,63.0,103.0,221.0,86.0,221.0
+Connecticut,2004,Windham,Westport,2004-12-31,63.0,76.0,206.0,105.0,206.0
+Connecticut,2005,Windham,Westport,2005-12-31,60.0,101.0,205.0,127.0,205.0
+Connecticut,2006,Windham,Westport,2006-12-31,50.0,85.0,215.0,89.0,215.0
+Connecticut,2007,Windham,Westport,2007-12-31,39.0,77.0,219.0,109.0,219.0
+Connecticut,2008,Windham,Westport,2008-12-31,42.0,103.0,200.0,81.0,200.0
+Connecticut,2009,Windham,Westport,2009-12-31,30.0,74.0,150.0,62.0,150.0
+Connecticut,2010,Windham,Westport,2010-12-31,25.0,70.0,190.0,101.0,190.0
+Connecticut,2011,Windham,Westport,2011-12-31,27.0,69.0,195.0,114.0,195.0
+Connecticut,2012,Windham,Westport,2012-12-31,45.0,48.0,197.0,65.0,197.0
+Connecticut,2013,Windham,Westport,2013-12-31,22.0,74.0,185.0,37.0,185.0
+Connecticut,2014,Windham,Westport,2014-12-31,17.0,79.0,164.0,27.0,164.0
+Connecticut,2015,Windham,Westport,2015-12-31,24.0,106.0,177.0,49.0,177.0
+Connecticut,2016,Windham,Westport,2016-12-31,22.0,60.0,187.0,13.0,187.0
+Connecticut,2017,Windham,Westport,2017-12-31,17.0,93.0,179.0,26.0,179.0
+Connecticut,2018,Windham,Westport,2018-12-31,20.0,104.0,185.0,11.0,185.0
+Connecticut,2019,Windham,Westport,2019-07-31,0.0,56.0,147.0,4.0,147.0
+Country Of Mexico,2000,CHIHUAHUA STATE,Tijuana,2000-12-31,238.75,113.0,165.5,200.0,238.75
+Country Of Mexico,2001,CHIHUAHUA STATE,Tijuana,2001-12-31,229.0,113.25,210.33333333333334,191.0,229.0
+Country Of Mexico,2002,CHIHUAHUA STATE,Tijuana,2002-12-31,209.5,109.5,195.0,167.0,209.5
+Country Of Mexico,2003,CHIHUAHUA STATE,Tijuana,2003-12-31,198.0,106.0,159.5,138.0,198.0
+Country Of Mexico,2004,CHIHUAHUA STATE,Tijuana,2004-12-31,190.33333333333334,101.0,167.66666666666666,57.0,190.33333333333334
+Country Of Mexico,2005,CHIHUAHUA STATE,Tijuana,2005-12-31,105.0,89.0,168.33333333333334,66.0,168.33333333333334
+Country Of Mexico,2006,SONORA,Tijuana,2006-12-31,143.0,88.33333333333333,163.75,132.0,163.75
+Country Of Mexico,2007,SONORA,Tijuana,2007-12-31,95.5,104.5,215.66666666666666,46.0,215.66666666666666
+Country Of Mexico,2008,CHIHUAHUA STATE,Tijuana,2008-12-31,89.33333333333333,101.5,166.33333333333334,23.0,166.33333333333334
+Country Of Mexico,2009,CHIHUAHUA STATE,Tijuana,2009-12-31,125.0,101.5,121.33333333333333,40.0,125.0
+Country Of Mexico,2010,CHIHUAHUA STATE,Tijuana,2010-12-31,104.0,88.5,154.0,33.0,154.0
+Country Of Mexico,2011,CHIHUAHUA STATE,Tijuana,2011-12-31,152.0,125.0,101.0,59.0,152.0
+Country Of Mexico,2012,CHIHUAHUA STATE,Tijuana,2012-12-31,71.33333333333333,125.0,83.5,0.0,125.0
+Country Of Mexico,2013,CHIHUAHUA STATE,Tijuana,2013-12-31,224.0,0.0,64.0,14.0,224.0
+Country Of Mexico,2014,CHIHUAHUA STATE,Ciudad-Juarez,2014-09-01,65.0,0.0,61.0,0.0,65.0
+Country Of Mexico,2017,SONORA,Not in a city,2017-12-31,0.0,0.0,143.0,0.0,143.0
+Country Of Mexico,2018,SONORA,Not in a city,2018-12-31,0.0,0.0,119.0,0.0,119.0
+Country Of Mexico,2019,SONORA,Not in a city,2019-09-30,0.0,0.0,126.0,0.0,126.0
+Delaware,2000,Sussex,Wilmington,2000-12-31,30.0,71.0,209.66666666666666,136.0,209.66666666666666
+Delaware,2001,Sussex,Wilmington,2001-12-31,36.0,77.0,204.0,158.0,204.0
+Delaware,2002,Sussex,Wilmington,2002-12-31,27.0,67.0,209.75,157.0,209.75
+Delaware,2003,Sussex,Wilmington,2003-12-31,30.0,90.0,218.0,151.0,218.0
+Delaware,2004,Sussex,Wilmington,2004-12-31,27.0,63.0,172.0,143.0,172.0
+Delaware,2005,Sussex,Wilmington,2005-12-31,24.0,104.0,206.0,173.0,206.0
+Delaware,2006,Sussex,Wilmington,2006-12-31,25.0,95.0,161.0,159.0,161.0
+Delaware,2007,Sussex,Wilmington,2007-12-31,22.0,73.0,207.66666666666666,111.0,207.66666666666666
+Delaware,2008,Sussex,Wilmington,2008-12-31,15.0,110.0,186.33333333333334,149.0,186.33333333333334
+Delaware,2009,Sussex,Wilmington,2009-12-31,16.0,66.0,120.0,86.0,120.0
+Delaware,2010,Sussex,Wilmington,2010-12-31,15.0,65.0,182.0,86.0,182.0
+Delaware,2011,Sussex,Wilmington,2011-12-31,17.0,50.0,172.0,39.0,172.0
+Delaware,2012,Sussex,Wilmington,2012-12-31,20.0,53.0,200.0,50.0,200.0
+Delaware,2013,Sussex,Wilmington,2013-12-31,15.0,49.0,136.0,50.0,136.0
+Delaware,2014,Sussex,Wilmington,2014-12-31,13.0,56.0,143.0,152.0,152.0
+Delaware,2015,Sussex,Wilmington,2015-12-31,14.0,48.0,159.0,47.0,159.0
+Delaware,2016,Sussex,Wilmington,2016-12-31,16.0,58.0,147.0,76.0,147.0
+Delaware,2017,Sussex,Wilmington,2017-12-31,13.0,56.0,147.0,124.0,147.0
+Delaware,2018,Sussex,Wilmington,2018-12-31,15.0,43.0,140.0,24.5,140.0
+Delaware,2019,Sussex,Wilmington,2019-09-30,0.0,64.0,133.0,17.0,133.0
+District Of Columbia,2000,District of Columbia,Washington,2000-12-31,50.5,83.66666666666667,193.0,104.0,193.0
+District Of Columbia,2001,District of Columbia,Washington,2001-12-31,40.0,77.33333333333333,198.33333333333334,122.0,198.33333333333334
+District Of Columbia,2002,District of Columbia,Washington,2002-12-31,40.5,83.33333333333333,217.66666666666666,96.0,217.66666666666666
+District Of Columbia,2003,District of Columbia,Washington,2003-12-31,46.5,87.33333333333333,203.0,102.0,203.0
+District Of Columbia,2004,District of Columbia,Washington,2004-12-31,33.0,74.33333333333333,164.0,107.0,164.0
+District Of Columbia,2005,District of Columbia,Washington,2005-12-31,27.5,81.0,156.0,100.0,156.0
+District Of Columbia,2006,District of Columbia,Washington,2006-12-31,32.5,70.66666666666667,170.66666666666666,89.0,170.66666666666666
+District Of Columbia,2007,District of Columbia,Washington,2007-12-31,25.5,57.666666666666664,161.33333333333334,70.0,161.33333333333334
+District Of Columbia,2008,District of Columbia,Washington,2008-12-31,25.5,62.666666666666664,169.0,56.0,169.0
+District Of Columbia,2009,District of Columbia,Washington,2009-12-31,33.5,70.0,138.66666666666666,79.0,138.66666666666666
+District Of Columbia,2010,District of Columbia,Washington,2010-12-31,30.0,78.66666666666667,172.66666666666666,69.0,172.66666666666666
+District Of Columbia,2011,District of Columbia,Washington,2011-12-31,23.666666666666668,65.0,158.0,33.0,158.0
+District Of Columbia,2012,District of Columbia,Washington,2012-12-31,23.333333333333332,53.0,162.5,23.5,162.5
+District Of Columbia,2013,District of Columbia,Washington,2013-12-31,17.0,48.333333333333336,97.0,13.0,97.0
+District Of Columbia,2014,District of Columbia,Washington,2014-12-31,16.666666666666668,51.0,136.5,26.5,136.5
+District Of Columbia,2015,District of Columbia,Washington,2015-12-31,21.0,55.5,126.0,26.0,126.0
+District Of Columbia,2016,District of Columbia,Washington,2016-12-31,21.0,59.333333333333336,121.0,13.0,121.0
+District Of Columbia,2017,District of Columbia,Washington,2017-12-31,20.5,48.75,94.33333333333333,14.0,94.33333333333333
+District Of Columbia,2018,District of Columbia,Washington,2018-12-31,18.5,49.75,130.66666666666666,6.5,130.66666666666666
+District Of Columbia,2019,District of Columbia,Washington,2019-09-30,0.0,54.25,101.66666666666667,7.5,101.66666666666667
+Florida,2000,Volusia,Winter Park,2000-12-31,58.0,97.0,208.0,200.0,208.0
+Florida,2001,Wakulla,Winter Park,2001-12-31,55.0,109.0,191.0,200.0,200.0
+Florida,2002,Wakulla,Winter Park,2002-12-31,63.0,79.0,161.0,200.0,200.0
+Florida,2003,Wakulla,Winter Park,2003-12-31,45.0,74.0,197.0,179.0,197.0
+Florida,2004,Wakulla,Winter Park,2004-12-31,46.0,120.0,179.0,151.0,179.0
+Florida,2005,Wakulla,Winter Park,2005-12-31,58.0,94.0,182.0,145.0,182.0
+Florida,2006,Wakulla,Winter Park,2006-12-31,33.0,103.0,187.0,189.0,189.0
+Florida,2007,Wakulla,Winter Park,2007-12-31,39.0,111.0,172.0,158.0,172.0
+Florida,2008,Wakulla,Winter Park,2008-12-31,28.0,101.0,187.0,159.0,187.0
+Florida,2009,Wakulla,Winter Park,2009-12-31,23.0,70.0,150.0,132.0,150.0
+Florida,2010,Wakulla,Winter Park,2010-12-31,20.0,63.0,156.0,200.0,200.0
+Florida,2011,Wakulla,Winter Park,2011-12-31,40.0,62.0,147.0,154.0,154.0
+Florida,2012,Wakulla,Winter Park,2012-12-31,30.0,74.0,148.5,119.0,148.5
+Florida,2013,Wakulla,Winter Park,2013-12-31,16.0,63.0,122.0,103.0,122.0
+Florida,2014,Wakulla,Winter Park,2014-12-31,30.0,78.0,136.0,126.0,136.0
+Florida,2015,Wakulla,Winter Park,2015-12-31,15.0,95.0,117.0,141.0,141.0
+Florida,2016,Wakulla,Winter Park,2016-12-31,18.0,97.0,138.0,100.0,138.0
+Florida,2017,Wakulla,Winter Park,2017-12-31,30.0,79.0,150.0,103.0,150.0
+Florida,2018,Wakulla,Winter Park,2018-12-31,15.0,53.0,151.0,106.0,151.0
+Florida,2019,Wakulla,Winter Park,2019-07-31,0.0,51.0,126.0,70.0,126.0
+Georgia,2000,Sumter,Tucker,2000-12-31,38.0,103.0,235.0,140.0,235.0
+Georgia,2001,Sumter,Tucker,2001-12-31,49.0,114.0,209.0,166.0,209.0
+Georgia,2002,Sumter,Tucker,2002-12-31,42.0,108.0,223.0,146.0,223.0
+Georgia,2003,Sumter,Tucker,2003-12-31,33.0,90.0,203.0,169.0,203.0
+Georgia,2004,Sumter,Tucker,2004-12-31,40.0,106.0,207.0,141.0,207.0
+Georgia,2005,Sumter,Tucker,2005-12-31,28.0,97.0,209.0,145.0,209.0
+Georgia,2006,Sumter,Tucker,2006-12-31,27.0,71.0,217.0,141.0,217.0
+Georgia,2007,Sumter,Summerville,2007-12-31,22.0,93.0,220.0,165.0,220.0
+Georgia,2008,Sumter,Summerville,2008-12-31,22.0,79.0,203.0,114.0,203.0
+Georgia,2009,Sumter,Summerville,2009-12-31,23.0,65.0,172.0,121.0,172.0
+Georgia,2010,Sumter,Summerville,2010-12-31,24.0,76.0,182.0,117.0,182.0
+Georgia,2011,Sumter,Summerville,2011-12-31,17.0,66.0,172.0,139.0,172.0
+Georgia,2012,Sumter,Summerville,2012-12-31,16.0,68.0,218.0,139.0,218.0
+Georgia,2013,Sumter,Summerville,2013-12-31,15.0,52.0,177.0,106.0,177.0
+Georgia,2014,Sumter,Summerville,2014-12-31,20.0,54.0,159.0,105.0,159.0
+Georgia,2015,Sumter,Summerville,2015-12-31,23.0,63.0,179.0,114.0,179.0
+Georgia,2016,Sumter,Summerville,2016-12-31,26.0,70.0,200.0,107.0,200.0
+Georgia,2017,Sumter,Summerville,2017-12-31,24.0,58.0,150.0,91.0,150.0
+Georgia,2018,Sumter,Summerville,2018-12-31,23.0,50.0,150.0,109.0,150.0
+Georgia,2019,Sumter,Summerville,2019-09-30,0.0,65.0,172.0,84.0,172.0
+Hawaii,2000,Honolulu,Not in a city,2000-12-31,22.0,24.5,44.0,200.0,200.0
+Hawaii,2001,Honolulu,Not in a city,2001-12-31,18.5,26.5,43.0,200.0,200.0
+Hawaii,2002,Honolulu,Not in a city,2002-12-31,18.0,26.5,45.0,200.0,200.0
+Hawaii,2003,Honolulu,Not in a city,2003-12-31,18.333333333333332,34.5,47.0,200.0,200.0
+Hawaii,2004,Honolulu,Not in a city,2004-12-31,17.666666666666668,23.5,54.0,200.0,200.0
+Hawaii,2005,Honolulu,Not in a city,2005-12-31,18.0,28.5,43.0,200.0,200.0
+Hawaii,2006,Honolulu,Not in a city,2006-12-31,19.0,31.5,39.0,200.0,200.0
+Hawaii,2007,Honolulu,Pahala,2007-12-31,13.0,25.0,33.0,200.0,200.0
+Hawaii,2008,Honolulu,Pahala,2008-12-31,11.0,23.5,46.0,200.0,200.0
+Hawaii,2009,Honolulu,Pahala,2009-12-31,14.0,25.0,45.0,200.0,200.0
+Hawaii,2010,Honolulu,Pahala,2010-12-31,11.0,24.0,48.0,200.0,200.0
+Hawaii,2011,Kauai,Pahala,2011-12-31,9.0,36.0,54.0,200.0,200.0
+Hawaii,2012,Kauai,Pahala,2012-12-31,11.0,40.0,45.0,200.0,200.0
+Hawaii,2013,Kauai,Pahala,2013-12-31,16.0,38.0,58.0,200.0,200.0
+Hawaii,2014,Kauai,Pahala,2014-12-31,13.0,42.0,74.0,200.0,200.0
+Hawaii,2015,Kauai,Pahala,2015-12-31,11.0,36.0,48.0,200.0,200.0
+Hawaii,2016,Kauai,Pahala,2016-12-31,14.0,35.0,48.0,200.0,200.0
+Hawaii,2017,Kauai,Pearl City,2017-12-31,10.0,38.0,48.0,200.0,200.0
+Hawaii,2018,Kauai,Pearl City,2018-12-31,15.0,43.0,51.0,200.0,200.0
+Hawaii,2019,Kauai,Pearl City,2019-08-31,0.0,43.0,54.0,74.0,74.0
+Idaho,2000,Nez Perce,Soda Springs,2000-12-31,59.0,48.0,115.0,155.0,155.0
+Idaho,2001,Nez Perce,Soda Springs,2001-12-31,54.0,45.0,151.0,158.0,158.0
+Idaho,2002,Nez Perce,Soda Springs,2002-12-31,42.0,132.0,156.0,200.0,200.0
+Idaho,2003,Elmore,Soda Springs,2003-12-31,42.0,120.0,143.0,193.0,193.0
+Idaho,2004,Power,Soda Springs,2004-12-31,39.0,136.0,119.0,161.0,161.0
+Idaho,2005,Power,Soda Springs,2005-12-31,33.0,69.0,147.0,125.0,147.0
+Idaho,2006,Kootenai,Soda Springs,2006-12-31,25.0,36.0,161.0,119.0,161.0
+Idaho,2007,Kootenai,Soda Springs,2007-12-31,19.0,31.0,151.0,121.0,151.0
+Idaho,2008,Kootenai,Soda Springs,2008-12-31,33.0,23.0,125.5,119.0,125.5
+Idaho,2009,Kootenai,Soda Springs,2009-12-31,43.0,50.0,105.0,126.0,126.0
+Idaho,2010,Kootenai,Soda Springs,2010-12-31,64.0,52.0,99.0,144.0,144.0
+Idaho,2011,Kootenai,Soda Springs,2011-12-31,50.0,33.0,101.0,114.0,114.0
+Idaho,2012,Caribou,Soda Springs,2012-12-31,40.0,46.0,129.0,112.0,129.0
+Idaho,2013,Caribou,Soda Springs,2013-12-31,19.0,42.0,172.0,200.0,200.0
+Idaho,2014,Caribou,Soda Springs,2014-12-31,24.0,45.0,100.0,200.0,200.0
+Idaho,2015,Caribou,Soda Springs,2015-12-31,30.0,53.0,108.0,156.0,156.0
+Idaho,2016,Idaho,Soda Springs,2016-12-31,34.0,45.0,112.0,59.0,112.0
+Idaho,2017,Idaho,Soda Springs,2017-12-31,81.0,50.0,119.0,200.0,200.0
+Idaho,2018,Idaho,Soda Springs,2018-12-31,23.0,0.0,122.0,75.0,122.0
+Idaho,2019,Idaho,Soda Springs,2019-08-31,0.0,37.0,77.0,108.0,108.0
+Illinois,2000,Winnebago,Zion,2000-12-31,55.0,102.0,165.5,200.0,200.0
+Illinois,2001,Winnebago,Zion,2001-12-31,53.0,91.0,195.0,200.0,200.0
+Illinois,2002,Winnebago,Zion,2002-12-31,49.0,110.0,215.0,200.0,215.0
+Illinois,2003,Winnebago,Zion,2003-12-31,40.0,105.0,206.0,200.0,206.0
+Illinois,2004,Winnebago,Zion,2004-12-31,42.0,83.0,147.0,200.0,200.0
+Illinois,2005,Winnebago,Zion,2005-12-31,43.0,102.0,205.0,200.0,205.0
+Illinois,2006,Winnebago,Zion,2006-12-31,38.0,83.0,182.0,200.0,200.0
+Illinois,2007,Winnebago,Zion,2007-12-31,31.0,112.0,202.0,200.0,202.0
+Illinois,2008,Winnebago,Zion,2008-12-31,33.0,89.0,159.0,200.0,200.0
+Illinois,2009,Winnebago,Zion,2009-12-31,32.0,81.5,177.0,200.0,200.0
+Illinois,2010,Winnebago,Zion,2010-12-31,23.0,79.0,156.0,200.0,200.0
+Illinois,2011,Winnebago,Zion,2011-12-31,23.0,78.0,174.0,183.0,183.0
+Illinois,2012,Winnebago,Zion,2012-12-31,26.0,75.0,202.0,200.0,202.0
+Illinois,2013,Winnebago,Zion,2013-12-31,11.0,86.0,151.0,183.0,183.0
+Illinois,2014,Winnebago,Zion,2014-12-31,16.0,102.0,136.0,185.0,185.0
+Illinois,2015,Winnebago,Zion,2015-12-31,14.0,73.0,156.0,134.0,156.0
+Illinois,2016,Winnebago,Zion,2016-12-31,13.0,83.0,169.0,141.0,169.0
+Illinois,2017,Winnebago,Zion,2017-12-31,19.0,63.5,166.0,104.0,166.0
+Illinois,2018,Winnebago,Zion,2018-12-31,20.0,84.0,177.0,62.0,177.0
+Illinois,2019,Winnebago,Zion,2019-09-30,0.0,76.0,174.0,82.0,174.0
+Indiana,2000,Wayne,Wheatfield,2000-12-31,45.0,204.0,195.0,200.0,204.0
+Indiana,2001,Wayne,Wheatfield,2001-12-31,48.0,103.0,195.0,194.5,195.0
+Indiana,2002,Wayne,Wheatfield,2002-12-31,89.0,107.0,220.0,200.0,220.0
+Indiana,2003,Wayne,Wheatfield,2003-12-31,57.0,105.0,203.0,200.0,203.0
+Indiana,2004,Wayne,Whiting,2004-12-31,42.0,109.0,164.0,200.0,200.0
+Indiana,2005,Wayne,Whiting,2005-12-31,31.0,102.0,204.0,176.0,204.0
+Indiana,2006,Wayne,Whiting,2006-12-31,36.0,58.0,190.0,184.0,190.0
+Indiana,2007,Wayne,Whiting,2007-12-31,49.0,80.0,179.0,183.0,183.0
+Indiana,2008,Wayne,Whiting,2008-12-31,38.0,58.0,164.0,200.0,200.0
+Indiana,2009,Wayne,Whiting,2009-12-31,34.0,53.0,151.0,178.0,178.0
+Indiana,2010,Wayne,Whiting,2010-12-31,50.0,62.0,151.0,179.0,179.0
+Indiana,2011,Wayne,Whiting,2011-12-31,70.0,56.0,174.0,156.0,174.0
+Indiana,2012,Wayne,Whiting,2012-12-31,63.0,49.0,214.0,177.0,214.0
+Indiana,2013,Whitley,Whiting,2013-12-31,61.0,62.0,126.0,195.0,195.0
+Indiana,2014,Whitley,Whiting,2014-12-31,55.0,72.0,133.0,195.0,195.0
+Indiana,2015,Whitley,Whiting,2015-12-31,28.0,60.0,164.0,132.5,164.0
+Indiana,2016,Whitley,Trafalgar,2016-12-31,33.0,96.0,147.0,115.0,147.0
+Indiana,2017,Warrick,Trafalgar,2017-12-31,40.0,79.0,147.0,114.0,147.0
+Indiana,2018,Warrick,Terre Haute,2018-12-31,27.0,56.0,161.0,110.0,161.0
+Indiana,2019,Warrick,Terre Haute,2019-09-30,0.0,49.0,126.0,84.0,126.0
+Iowa,2000,Warren,Waverly,2000-12-31,83.0,40.0,161.0,186.0,186.0
+Iowa,2001,Woodbury,Waverly,2001-12-31,55.0,53.0,154.0,118.0,154.0
+Iowa,2002,Woodbury,Waverly,2002-12-31,27.0,47.0,192.0,104.0,192.0
+Iowa,2003,Warren,Waverly,2003-12-31,25.5,69.0,150.0,128.0,150.0
+Iowa,2004,Warren,Waverly,2004-12-31,36.0,46.0,136.0,106.0,136.0
+Iowa,2005,Warren,Waverly,2005-12-31,21.0,51.0,154.0,104.0,154.0
+Iowa,2006,Warren,Waverly,2006-12-31,18.5,52.0,129.0,83.33333333333333,129.0
+Iowa,2007,Warren,Waverly,2007-12-31,47.0,46.0,151.0,127.0,151.0
+Iowa,2008,Warren,Waverly,2008-12-31,15.0,55.0,100.0,190.0,190.0
+Iowa,2009,Warren,Waverly,2009-12-31,16.0,48.0,108.0,92.0,108.0
+Iowa,2010,Warren,Waverly,2010-12-31,13.0,60.0,120.5,142.0,142.0
+Iowa,2011,Warren,Waverly,2011-12-31,10.0,43.0,106.5,200.0,200.0
+Iowa,2012,Woodbury,Waverly,2012-12-31,20.0,47.0,131.0,153.0,153.0
+Iowa,2013,Woodbury,Waverly,2013-12-31,22.0,44.0,106.5,124.0,124.0
+Iowa,2014,Woodbury,Waverly,2014-12-31,13.0,42.0,103.0,113.0,113.0
+Iowa,2015,Woodbury,Waverly,2015-12-31,11.0,47.0,102.5,85.33333333333333,102.5
+Iowa,2016,Woodbury,Waverly,2016-12-31,11.0,83.0,109.25,66.0,109.25
+Iowa,2017,Woodbury,Waverly,2017-12-31,13.0,77.0,93.0,61.0,93.0
+Iowa,2018,Van Buren,Waverly,2018-12-31,10.0,40.0,127.5,76.0,127.5
+Iowa,2019,Van Buren,Waverly,2019-10-31,0.0,43.0,101.75,40.0,101.75
+Kansas,2000,Wyandotte,Wichita,2000-12-31,57.0,74.0,179.0,151.0,179.0
+Kansas,2001,Wyandotte,Wichita,2001-12-31,47.0,71.0,179.0,134.0,179.0
+Kansas,2002,Wyandotte,Wichita,2002-12-31,45.0,91.0,159.0,136.0,159.0
+Kansas,2003,Wyandotte,Wichita,2003-12-31,34.0,80.0,201.0,137.0,201.0
+Kansas,2004,Wyandotte,Wichita,2004-12-31,39.0,103.0,119.0,126.0,126.0
+Kansas,2005,Wyandotte,Wichita,2005-12-31,53.0,103.0,210.0,136.0,210.0
+Kansas,2006,Wyandotte,Wichita,2006-12-31,57.0,65.0,185.0,110.0,185.0
+Kansas,2007,Wyandotte,Wichita,2007-12-31,33.0,61.0,174.0,130.0,174.0
+Kansas,2008,Wyandotte,Wichita,2008-12-31,23.0,64.0,126.0,200.0,200.0
+Kansas,2009,Wyandotte,Wichita,2009-12-31,19.0,60.0,174.0,107.0,174.0
+Kansas,2010,Wyandotte,Wichita,2010-12-31,24.0,76.0,143.0,103.0,143.0
+Kansas,2011,Wyandotte,Wichita,2011-12-31,23.0,86.0,161.0,87.0,161.0
+Kansas,2012,Wyandotte,Wichita,2012-12-31,32.5,100.0,174.0,95.0,174.0
+Kansas,2013,Wyandotte,Wichita,2013-12-31,19.0,56.0,115.0,66.0,115.0
+Kansas,2014,Wyandotte,Wichita,2014-12-31,13.0,77.0,150.0,84.0,150.0
+Kansas,2015,Wyandotte,Wichita,2015-12-31,14.0,55.0,122.0,74.0,122.0
+Kansas,2016,Wyandotte,Wichita,2016-12-31,16.0,42.0,195.0,20.0,195.0
+Kansas,2017,Wyandotte,Wichita,2017-12-31,17.0,50.0,101.0,10.0,101.0
+Kansas,2018,Wyandotte,Wichita,2018-12-31,18.0,42.0,172.0,11.0,172.0
+Kansas,2019,Wyandotte,Wichita,2019-06-30,0.0,41.0,119.0,20.0,119.0
+Kentucky,2000,Washington,Worthington,2000-12-31,54.0,104.0,210.0,159.0,210.0
+Kentucky,2001,Washington,Worthington,2001-12-31,43.0,102.0,187.0,157.0,187.0
+Kentucky,2002,Washington,Worthington,2002-12-31,42.0,87.0,209.0,141.0,209.0
+Kentucky,2003,Washington,Worthington,2003-12-31,33.0,87.0,201.0,142.0,201.0
+Kentucky,2004,Washington,Worthington,2004-12-31,31.0,79.0,192.0,145.0,192.0
+Kentucky,2005,Washington,Worthington,2005-12-31,26.5,60.0,201.0,139.0,201.0
+Kentucky,2006,Washington,Worthington,2006-12-31,33.5,58.0,169.0,129.0,169.0
+Kentucky,2007,Washington,Worthington,2007-12-31,20.0,64.0,174.0,133.0,174.0
+Kentucky,2008,Washington,Worthington,2008-12-31,24.5,90.0,159.0,154.0,159.0
+Kentucky,2009,Washington,Worthington,2009-12-31,25.0,76.0,136.0,146.0,146.0
+Kentucky,2010,Washington,Worthington,2010-12-31,26.0,70.0,161.0,131.0,161.0
+Kentucky,2011,Washington,Worthington,2011-12-31,23.0,47.0,187.0,148.0,187.0
+Kentucky,2012,Washington,Worthington,2012-12-31,19.0,48.0,204.0,137.0,204.0
+Kentucky,2013,Washington,Worthington,2013-12-31,16.0,51.0,129.0,123.0,129.0
+Kentucky,2014,Washington,Worthington,2014-12-31,13.0,67.0,121.0,109.0,121.0
+Kentucky,2015,Washington,Worthington,2015-12-31,18.0,49.5,133.0,86.0,133.0
+Kentucky,2016,Washington,Worthington,2016-12-31,14.5,63.5,156.0,81.0,156.0
+Kentucky,2017,Washington,Worthington,2017-12-31,18.0,48.0,119.0,61.0,119.0
+Kentucky,2018,Washington,Worthington,2018-12-31,13.0,42.5,151.0,66.5,151.0
+Kentucky,2019,Washington,Worthington,2019-08-31,0.0,48.5,93.0,156.0,156.0
+Louisiana,2000,West Baton Rouge,Westlake (RR name West Lake),2000-12-31,48.0,81.0,213.0,152.0,213.0
+Louisiana,2001,West Baton Rouge,Westlake (RR name West Lake),2001-12-31,62.0,81.0,200.0,153.0,200.0
+Louisiana,2002,West Baton Rouge,Westlake (RR name West Lake),2002-12-31,55.0,84.0,198.0,139.0,198.0
+Louisiana,2003,West Baton Rouge,Westlake (RR name West Lake),2003-12-31,35.0,94.5,212.0,133.0,212.0
+Louisiana,2004,West Baton Rouge,Westlake (RR name West Lake),2004-12-31,40.5,78.0,179.5,200.0,200.0
+Louisiana,2005,West Baton Rouge,Westlake (RR name West Lake),2005-12-31,59.0,91.0,201.0,157.0,201.0
+Louisiana,2006,West Baton Rouge,Westlake (RR name West Lake),2006-12-31,39.0,80.0,195.0,136.0,195.0
+Louisiana,2007,West Baton Rouge,Westlake (RR name West Lake),2007-12-31,20.0,74.5,195.0,197.0,197.0
+Louisiana,2008,West Baton Rouge,Westlake (RR name West Lake),2008-12-31,22.0,70.0,150.0,169.0,169.0
+Louisiana,2009,West Baton Rouge,Westlake (RR name West Lake),2009-12-31,14.0,86.0,177.0,160.0,177.0
+Louisiana,2010,West Baton Rouge,Westlake (RR name West Lake),2010-12-31,26.0,76.0,169.0,177.0,177.0
+Louisiana,2011,West Baton Rouge,Westlake (RR name West Lake),2011-12-31,17.0,61.0,192.0,200.0,200.0
+Louisiana,2012,West Baton Rouge,Westlake (RR name West Lake),2012-12-31,22.0,65.0,159.0,174.0,174.0
+Louisiana,2013,West Baton Rouge,Westlake (RR name West Lake),2013-12-31,23.0,125.0,154.0,200.0,200.0
+Louisiana,2014,West Baton Rouge,Westlake (RR name West Lake),2014-12-31,47.0,64.0,156.0,117.0,156.0
+Louisiana,2015,West Baton Rouge,Westlake (RR name West Lake),2015-12-31,28.0,81.0,156.0,121.0,156.0
+Louisiana,2016,West Baton Rouge,Westlake (RR name West Lake),2016-12-31,20.0,80.0,126.0,123.0,126.0
+Louisiana,2017,West Baton Rouge,Westlake (RR name West Lake),2017-12-31,22.0,54.0,140.0,96.0,140.0
+Louisiana,2018,West Baton Rouge,Westlake (RR name West Lake),2018-12-31,19.0,46.0,150.0,110.0,150.0
+Louisiana,2019,West Baton Rouge,Westlake (RR name West Lake),2019-09-30,0.0,57.0,126.0,87.0,126.0
+Maine,2000,York,Rumford (census name for Rumford Compact),2000-12-31,0.0,64.0,159.0,112.0,159.0
+Maine,2001,York,Rumford (census name for Rumford Compact),2001-12-31,9.0,57.0,206.0,72.0,206.0
+Maine,2002,York,Rumford (census name for Rumford Compact),2002-12-31,14.0,78.0,217.0,107.0,217.0
+Maine,2003,York,Rumford (census name for Rumford Compact),2003-12-31,9.0,77.0,202.0,82.0,202.0
+Maine,2004,York,Rumford (census name for Rumford Compact),2004-12-31,9.0,50.0,187.0,72.0,187.0
+Maine,2005,York,Portland,2005-12-31,6.0,102.0,192.0,89.0,192.0
+Maine,2006,York,Presque Isle,2006-12-31,7.0,55.0,140.0,67.0,140.0
+Maine,2007,York,Presque Isle,2007-12-31,7.0,33.0,185.0,94.0,185.0
+Maine,2008,York,Presque Isle,2008-12-31,15.0,62.0,133.0,65.0,133.0
+Maine,2009,York,Presque Isle,2009-12-31,20.0,62.0,154.0,62.0,154.0
+Maine,2010,York,Presque Isle,2010-12-31,16.0,50.0,177.0,39.0,177.0
+Maine,2011,York,Presque Isle,2011-12-31,15.0,46.0,161.0,31.0,161.0
+Maine,2012,York,Presque Isle,2012-12-31,18.0,46.0,140.0,72.0,140.0
+Maine,2013,York,Presque Isle,2013-12-31,20.0,74.0,147.0,34.0,147.0
+Maine,2014,York,South Eliot,2014-12-31,13.0,48.0,101.0,35.5,101.0
+Maine,2015,York,South Eliot,2015-12-31,15.0,83.0,136.0,53.0,136.0
+Maine,2016,York,South Eliot,2016-12-31,15.0,86.0,122.0,20.0,122.0
+Maine,2017,York,Presque Isle,2017-12-31,17.0,85.0,168.0,20.0,168.0
+Maine,2018,York,Presque Isle,2018-12-31,11.0,62.0,122.0,19.0,122.0
+Maine,2019,York,Presque Isle,2019-10-31,0.0,41.0,115.0,1.0,115.0
+Maryland,2000,Washington,Suitland-Silver Hill,2000-12-31,43.0,88.0,229.0,120.0,229.0
+Maryland,2001,Washington,Suitland-Silver Hill,2001-12-31,39.0,82.0,225.0,113.0,225.0
+Maryland,2002,Washington,Riviera Beach,2002-12-31,35.0,102.0,224.0,142.0,224.0
+Maryland,2003,Washington,Riviera Beach,2003-12-31,32.0,84.0,227.0,123.0,227.0
+Maryland,2004,Washington,Not in a city,2004-12-31,45.0,71.0,202.0,105.0,202.0
+Maryland,2005,Washington,Prince Frederick,2005-12-31,32.0,90.0,208.0,127.0,208.0
+Maryland,2006,Washington,Prince Frederick,2006-12-31,38.0,102.0,205.0,112.0,205.0
+Maryland,2007,Worcester,Prince Frederick,2007-12-31,33.0,64.0,221.0,145.0,221.0
+Maryland,2008,Worcester,Prince Frederick,2008-12-31,24.0,77.0,195.0,102.0,195.0
+Maryland,2009,Worcester,Prince Frederick,2009-12-31,33.0,70.0,204.0,92.0,204.0
+Maryland,2010,Worcester,Prince Frederick,2010-12-31,25.0,70.0,210.0,87.0,210.0
+Maryland,2011,Washington,Prince Frederick,2011-12-31,20.0,55.0,209.0,72.0,209.0
+Maryland,2012,Washington,Prince Frederick,2012-12-31,24.0,61.0,208.0,36.0,208.0
+Maryland,2013,Washington,Prince Frederick,2013-12-31,18.0,57.0,143.0,50.0,143.0
+Maryland,2014,Washington,Prince Frederick,2014-12-31,16.0,58.0,150.0,61.0,150.0
+Maryland,2015,Washington,Prince Frederick,2015-12-31,22.0,61.0,187.0,46.0,187.0
+Maryland,2016,Washington,Prince Frederick,2016-12-31,17.0,66.0,194.5,30.0,194.5
+Maryland,2017,Washington,Westernport,2017-12-31,15.0,57.0,161.0,161.5,161.5
+Maryland,2018,Washington,Westernport,2018-12-31,15.0,50.0,166.0,123.0,166.0
+Maryland,2019,Washington,Westernport,2019-10-31,0.0,55.0,150.0,101.0,150.0
+Massachusetts,2000,Worcester,Worcester,2000-12-31,45.0,101.0,222.0,173.0,222.0
+Massachusetts,2001,Worcester,Worcester,2001-12-31,38.5,95.0,220.0,110.0,220.0
+Massachusetts,2002,Worcester,Worcester,2002-12-31,41.5,91.0,230.0,123.0,230.0
+Massachusetts,2003,Worcester,Worcester,2003-12-31,36.0,93.0,210.0,125.0,210.0
+Massachusetts,2004,Worcester,Worcester,2004-12-31,47.0,93.0,202.0,105.0,202.0
+Massachusetts,2005,Worcester,Worcester,2005-12-31,33.0,70.0,201.0,114.0,201.0
+Massachusetts,2006,Worcester,Worcester,2006-12-31,31.0,67.0,215.0,106.0,215.0
+Massachusetts,2007,Worcester,Worcester,2007-12-31,24.0,77.0,207.0,104.0,207.0
+Massachusetts,2008,Worcester,Worcester,2008-12-31,34.0,95.0,201.0,100.0,201.0
+Massachusetts,2009,Worcester,Worcester,2009-12-31,23.0,61.0,151.0,81.0,151.0
+Massachusetts,2010,Worcester,Worcester,2010-12-31,20.5,56.0,187.0,120.0,187.0
+Massachusetts,2011,Worcester,Worcester,2011-12-31,45.0,79.0,208.0,109.0,208.0
+Massachusetts,2012,Worcester,Worcester,2012-12-31,23.0,72.0,187.0,105.0,187.0
+Massachusetts,2013,Worcester,Worcester,2013-12-31,16.0,60.0,161.0,128.0,161.0
+Massachusetts,2014,Worcester,Worcester,2014-12-31,17.0,57.0,115.0,23.0,115.0
+Massachusetts,2015,Worcester,Worcester,2015-12-31,15.0,79.0,156.0,30.0,156.0
+Massachusetts,2016,Worcester,Worcester,2016-12-31,23.0,58.0,161.0,16.0,161.0
+Massachusetts,2017,Worcester,Worcester,2017-12-31,13.0,64.0,177.0,17.0,177.0
+Massachusetts,2018,Worcester,Worcester,2018-12-31,11.0,76.0,133.0,10.0,133.0
+Massachusetts,2019,Worcester,Worcester,2019-08-31,0.0,49.666666666666664,126.0,7.0,126.0
+Michigan,2000,Wexford,Ypsilanti,2000-12-31,57.0,100.0,212.0,163.0,212.0
+Michigan,2001,Wexford,Ypsilanti,2001-12-31,44.0,88.5,213.0,149.0,213.0
+Michigan,2002,Wexford,Ypsilanti,2002-12-31,43.0,97.0,214.0,149.0,214.0
+Michigan,2003,Wexford,Ypsilanti,2003-12-31,40.0,84.0,219.0,160.0,219.0
+Michigan,2004,Wexford,Ypsilanti,2004-12-31,35.0,69.0,202.0,141.0,202.0
+Michigan,2005,Wexford,Ypsilanti,2005-12-31,28.0,77.0,208.0,157.0,208.0
+Michigan,2006,Wexford,Ypsilanti,2006-12-31,36.0,67.0,200.0,149.0,200.0
+Michigan,2007,Wexford,Ypsilanti,2007-12-31,18.0,56.0,204.0,124.0,204.0
+Michigan,2008,Wexford,Ypsilanti,2008-12-31,16.0,55.0,187.0,119.0,187.0
+Michigan,2009,Wexford,Ypsilanti,2009-12-31,18.0,56.0,174.0,114.0,174.0
+Michigan,2010,Wexford,Ypsilanti,2010-12-31,16.0,72.0,164.0,139.0,164.0
+Michigan,2011,Wexford,Ypsilanti,2011-12-31,20.0,65.0,197.0,117.0,197.0
+Michigan,2012,Wexford,Ypsilanti,2012-12-31,28.0,57.5,208.0,200.0,208.0
+Michigan,2013,Wexford,Ypsilanti,2013-12-31,19.0,48.0,154.0,101.0,154.0
+Michigan,2014,Wexford,Ypsilanti,2014-12-31,18.0,63.0,151.0,104.0,151.0
+Michigan,2015,Wexford,Ypsilanti,2015-12-31,25.0,51.5,159.0,112.0,159.0
+Michigan,2016,Wexford,Ypsilanti,2016-12-31,23.0,60.0,159.0,123.0,159.0
+Michigan,2017,Wexford,Ypsilanti,2017-12-31,25.0,46.25,147.0,57.0,147.0
+Michigan,2018,Wexford,Ypsilanti,2018-12-31,18.0,50.0,174.0,64.0,174.0
+Michigan,2019,Wexford,Ypsilanti,2019-10-31,0.0,70.0,122.0,85.0,122.0
+Minnesota,2000,Washington,St. Paul Park,2000-12-31,38.333333333333336,76.0,140.0,104.0,140.0
+Minnesota,2001,Washington,St. Paul Park,2001-12-31,56.333333333333336,96.0,192.0,101.0,192.0
+Minnesota,2002,Washington,St. Paul Park,2002-12-31,42.0,93.0,172.0,57.5,172.0
+Minnesota,2003,Wright,St. Paul Park,2003-12-31,49.0,55.0,156.0,116.0,156.0
+Minnesota,2004,Wright,St. Paul Park,2004-12-31,43.0,53.0,105.0,127.0,127.0
+Minnesota,2005,Wright,St. Paul Park,2005-12-31,49.0,52.0,161.0,112.0,161.0
+Minnesota,2006,Wright,St. Paul Park,2006-12-31,32.0,47.0,140.0,86.0,140.0
+Minnesota,2007,Wright,St. Paul Park,2007-12-31,35.0,44.0,151.0,76.0,151.0
+Minnesota,2008,Wright,St. Paul Park,2008-12-31,27.0,54.0,97.0,82.0,97.0
+Minnesota,2009,Wright,St. Paul Park,2009-12-31,24.0,104.0,112.0,69.0,112.0
+Minnesota,2010,Wright,St. Paul Park,2010-12-31,30.0,101.0,119.0,75.0,119.0
+Minnesota,2011,Wright,St. Paul Park,2011-12-31,30.0,51.0,133.0,30.0,133.0
+Minnesota,2012,Wright,St. Paul Park,2012-12-31,26.0,86.0,185.0,65.0,185.0
+Minnesota,2013,Wright,St. Paul Park,2013-12-31,35.0,51.0,126.0,51.0,126.0
+Minnesota,2014,Wright,St. Paul Park,2014-12-31,20.0,68.0,112.0,89.0,112.0
+Minnesota,2015,Wright,St. Paul Park,2015-12-31,19.0,85.0,119.0,14.0,119.0
+Minnesota,2016,Wright,St. Paul Park,2016-12-31,20.0,72.0,108.0,105.0,108.0
+Minnesota,2017,Wright,St. Paul Park,2017-12-31,29.0,60.0,100.0,34.0,100.0
+Minnesota,2018,Wright,St. Paul Park,2018-12-31,48.0,70.0,133.0,54.0,133.0
+Minnesota,2019,Wright,St. Paul Park,2019-09-30,0.0,54.0,122.0,11.0,122.0
+Mississippi,2000,Yalobusha,Vicksburg,2000-12-31,39.0,105.0,208.0,137.0,208.0
+Mississippi,2001,Yalobusha,Vicksburg,2001-12-31,52.0,102.0,164.0,133.0,164.0
+Mississippi,2002,Yalobusha,Vicksburg,2002-12-31,35.0,84.0,195.0,132.0,195.0
+Mississippi,2003,Yalobusha,Vicksburg,2003-12-31,44.0,32.0,182.0,86.0,182.0
+Mississippi,2004,Yalobusha,Vicksburg,2004-12-31,34.0,48.0,169.0,102.0,169.0
+Mississippi,2005,Yalobusha,Waveland,2005-12-31,38.0,101.0,172.0,103.0,172.0
+Mississippi,2006,Yalobusha,Tupelo,2006-12-31,0.0,46.0,179.0,104.0,179.0
+Mississippi,2007,Yalobusha,Tupelo,2007-12-31,0.0,40.0,203.0,90.0,203.0
+Mississippi,2008,Yalobusha,Tupelo,2008-12-25,0.0,53.0,164.0,65.0,164.0
+Mississippi,2009,Yalobusha,Waveland,2009-12-31,0.0,36.0,150.0,110.0,150.0
+Mississippi,2010,Yalobusha,Waveland,2010-12-31,11.0,41.0,147.0,72.0,147.0
+Mississippi,2011,Yalobusha,Waveland,2011-12-31,11.0,40.0,139.5,64.0,139.5
+Mississippi,2012,Yalobusha,Waveland,2012-12-31,8.0,34.0,151.0,43.0,151.0
+Mississippi,2013,Yalobusha,Waveland,2013-12-31,17.0,39.0,112.0,69.0,112.0
+Mississippi,2014,Yalobusha,Waveland,2014-12-31,22.0,38.0,122.0,69.0,122.0
+Mississippi,2015,Yalobusha,Waveland,2015-12-31,19.0,44.0,115.0,51.0,115.0
+Mississippi,2016,Yalobusha,Waveland,2016-12-31,16.0,45.0,115.0,29.0,115.0
+Mississippi,2017,Yalobusha,Waveland,2017-12-31,15.0,50.0,105.0,9.0,105.0
+Mississippi,2018,Yalobusha,Waveland,2018-12-31,22.0,39.0,159.0,16.0,159.0
+Mississippi,2019,Yalobusha,Waveland,2019-09-30,0.0,41.0,136.0,7.0,136.0
+Missouri,2000,St. Louis City,West Alton,2000-12-31,68.0,103.0,204.0,171.75,204.0
+Missouri,2001,Sullivan,West Alton,2001-12-31,49.5,107.0,185.0,171.0,185.0
+Missouri,2002,St. Louis City,West Alton,2002-12-31,71.0,105.0,209.0,200.0,209.0
+Missouri,2003,St. Louis City,West Alton,2003-12-31,28.0,106.0,202.0,200.0,202.0
+Missouri,2004,St. Louis City,West Alton,2004-12-31,39.0,65.5,151.0,200.0,200.0
+Missouri,2005,St. Louis City,West Alton,2005-12-31,48.0,110.0,203.0,200.0,203.0
+Missouri,2006,St. Louis City,West Alton,2006-12-31,26.0,130.0,200.5,200.0,200.5
+Missouri,2007,St. Louis City,West Alton,2007-12-31,30.0,73.0,200.0,200.0,200.0
+Missouri,2008,St. Louis City,West Alton,2008-12-31,41.5,62.0,159.0,200.0,200.0
+Missouri,2009,St. Louis City,West Alton,2009-12-31,17.5,110.0,166.0,200.0,200.0
+Missouri,2010,Taney,West Alton,2010-12-31,22.0,86.0,164.0,192.5,192.5
+Missouri,2011,Taney,West Alton,2011-12-31,17.0,66.0,192.0,168.0,192.0
+Missouri,2012,Taney,West Alton,2012-12-31,14.0,78.0,190.0,200.0,200.0
+Missouri,2013,Taney,West Alton,2013-12-31,15.0,62.0,156.0,178.0,178.0
+Missouri,2014,Taney,West Alton,2014-12-31,13.0,57.0,126.0,150.0,150.0
+Missouri,2015,Taney,West Alton,2015-12-31,15.5,53.0,129.0,134.0,134.0
+Missouri,2016,Taney,West Alton,2016-12-31,22.0,52.333333333333336,151.0,87.0,151.0
+Missouri,2017,Taney,West Alton,2017-12-31,19.0,51.0,156.5,67.0,156.5
+Missouri,2018,St. Louis City,West Alton,2018-12-31,18.0,47.333333333333336,179.5,109.66666666666667,179.5
+Missouri,2019,St. Louis City,West Alton,2019-06-30,0.0,53.0,104.0,129.66666666666666,129.66666666666666
+Montana,2000,Yellowstone,Not in a city,2000-12-31,66.0,36.5,64.0,159.5,159.5
+Montana,2001,Yellowstone,Not in a city,2001-12-31,61.0,45.0,61.0,200.0,200.0
+Montana,2002,Yellowstone,Not in a city,2002-12-31,55.0,48.0,64.0,200.0,200.0
+Montana,2003,Yellowstone,Not in a city,2003-12-31,45.0,49.0,84.0,200.0,200.0
+Montana,2004,Yellowstone,Not in a city,2004-12-31,49.0,28.5,54.0,127.0,127.0
+Montana,2005,Yellowstone,Shepherd,2005-12-31,47.0,69.0,74.0,116.0,116.0
+Montana,2006,Yellowstone,Shepherd,2006-12-31,55.0,51.0,90.0,113.0,113.0
+Montana,2007,Yellowstone,West Yellowstone,2007-12-31,42.0,102.0,64.0,122.0,122.0
+Montana,2008,Yellowstone,West Yellowstone,2008-12-31,33.0,28.0,64.0,120.0,120.0
+Montana,2009,Yellowstone,West Yellowstone,2009-12-31,35.0,43.333333333333336,87.0,115.0,115.0
+Montana,2010,Yellowstone,West Yellowstone,2010-12-31,32.0,52.0,84.0,150.0,150.0
+Montana,2011,Yellowstone,West Yellowstone,2011-12-31,24.0,45.0,61.0,131.0,131.0
+Montana,2012,Yellowstone,Not in a city,2012-12-31,11.0,44.5,84.0,125.0,125.0
+Montana,2013,Yellowstone,Not in a city,2013-12-31,22.0,46.0,71.0,112.0,112.0
+Montana,2014,Yellowstone,Not in a city,2014-12-31,10.0,43.0,77.0,125.0,125.0
+Montana,2015,Yellowstone,Not in a city,2015-12-31,11.0,44.0,77.0,158.0,158.0
+Montana,2016,Yellowstone,Not in a city,2016-12-31,83.0,36.25,74.0,57.5,83.0
+Montana,2017,Yellowstone,Not in a city,2017-12-31,10.0,52.0,80.0,102.0,102.0
+Montana,2018,Yellowstone,Not in a city,2018-12-31,8.0,34.0,126.0,40.0,126.0
+Montana,2019,Yellowstone,Not in a city,2019-08-31,0.0,38.0,93.0,26.0,93.0
+Nebraska,2000,Lancaster,Omaha,2000-12-31,54.0,0.0,89.0,38.5,89.0
+Nebraska,2001,Lancaster,Omaha,2001-12-31,59.0,0.0,83.66666666666667,15.5,83.66666666666667
+Nebraska,2002,Lancaster,Omaha,2002-12-31,45.0,0.0,91.66666666666667,40.0,91.66666666666667
+Nebraska,2003,Lancaster,Omaha,2003-12-31,48.0,0.0,101.66666666666667,47.5,101.66666666666667
+Nebraska,2004,Lancaster,Omaha,2004-12-31,48.0,0.0,92.66666666666667,68.5,92.66666666666667
+Nebraska,2005,Lancaster,Omaha,2005-12-31,35.0,0.0,104.33333333333333,77.0,104.33333333333333
+Nebraska,2006,Lancaster,Omaha,2006-12-31,30.0,0.0,202.0,67.0,202.0
+Nebraska,2007,Sioux,Omaha,2007-12-31,34.0,0.0,97.0,71.0,97.0
+Nebraska,2008,Sioux,Omaha,2008-12-31,31.0,0.0,105.0,63.5,105.0
+Nebraska,2009,Sioux,Omaha,2009-12-31,35.0,0.0,80.0,55.0,80.0
+Nebraska,2010,Scotts Bluff,Omaha,2010-12-31,22.0,0.0,90.0,102.0,102.0
+Nebraska,2011,Scotts Bluff,Omaha,2011-12-31,24.0,0.0,101.0,91.0,101.0
+Nebraska,2012,Scotts Bluff,Omaha,2012-12-31,15.5,0.0,150.0,54.5,150.0
+Nebraska,2013,Lancaster,Omaha,2013-12-31,14.5,0.0,100.0,53.5,100.0
+Nebraska,2014,Lancaster,Omaha,2014-12-31,11.0,0.0,87.0,69.0,87.0
+Nebraska,2015,Lancaster,Omaha,2015-12-31,12.0,0.0,114.0,57.5,114.0
+Nebraska,2016,Lancaster,Omaha,2016-12-31,11.0,0.0,101.0,57.5,101.0
+Nebraska,2017,Lancaster,Omaha,2017-12-31,12.0,0.0,100.0,113.0,113.0
+Nebraska,2018,Lancaster,Omaha,2018-12-31,12.5,0.0,94.33333333333333,41.0,94.33333333333333
+Nebraska,2019,Lancaster,Omaha,2019-09-30,0.0,0.0,80.0,52.0,80.0
+Nevada,2000,White Pine,Sunrise Manor,2000-12-31,60.0,88.0,147.0,37.0,147.0
+Nevada,2001,White Pine,Sunrise Manor,2001-12-31,58.0,90.0,160.0,34.0,160.0
+Nevada,2002,White Pine,Sunrise Manor,2002-12-31,94.0,86.0,169.0,24.0,169.0
+Nevada,2003,White Pine,Sunrise Manor,2003-12-31,79.0,78.0,166.0,27.0,166.0
+Nevada,2004,White Pine,Sunrise Manor,2004-12-31,50.0,68.0,150.0,19.0,150.0
+Nevada,2005,White Pine,Sunrise Manor,2005-12-31,47.0,73.0,187.0,34.0,187.0
+Nevada,2006,White Pine,Sunrise Manor,2006-12-31,43.0,93.0,164.33333333333334,21.0,164.33333333333334
+Nevada,2007,White Pine,Sunrise Manor,2007-12-31,51.0,70.0,156.0,10.0,156.0
+Nevada,2008,White Pine,Sunrise Manor,2008-12-31,35.0,73.0,177.0,9.0,177.0
+Nevada,2009,White Pine,Sunrise Manor,2009-12-31,39.0,96.0,129.0,0.0,129.0
+Nevada,2010,White Pine,Sunrise Manor,2010-12-31,36.0,80.0,127.2,6.0,127.2
+Nevada,2011,White Pine,Sunrise Manor,2011-12-31,38.0,69.0,161.0,11.0,161.0
+Nevada,2012,White Pine,Sunrise Manor,2012-12-31,77.0,65.0,143.0,13.0,143.0
+Nevada,2013,White Pine,Sunrise Manor,2013-12-31,35.0,82.0,154.0,13.0,154.0
+Nevada,2014,White Pine,Sunrise Manor,2014-12-31,39.0,57.0,143.0,11.0,143.0
+Nevada,2015,White Pine,Sunrise Manor,2015-12-31,32.0,65.0,137.0,16.0,137.0
+Nevada,2016,White Pine,Sunrise Manor,2016-12-31,28.0,57.0,133.5,9.0,133.5
+Nevada,2017,White Pine,Sunrise Manor,2017-12-31,28.0,88.0,131.66666666666666,13.0,131.66666666666666
+Nevada,2018,White Pine,Sunrise Manor,2018-12-31,28.0,58.0,136.0,9.0,136.0
+Nevada,2019,White Pine,Sunrise Manor,2019-09-30,0.0,56.0,112.0,7.0,112.0
+New Hampshire,2000,Sullivan,Rye,2000-12-31,52.0,55.0,166.0,177.0,177.0
+New Hampshire,2001,Sullivan,Rye,2001-12-31,45.0,56.0,205.0,175.0,205.0
+New Hampshire,2002,Sullivan,Suncook,2002-12-31,44.0,63.0,206.0,154.0,206.0
+New Hampshire,2003,Sullivan,Suncook,2003-12-31,60.0,91.0,150.0,170.0,170.0
+New Hampshire,2004,Sullivan,Suncook,2004-12-31,45.0,60.0,182.0,149.0,182.0
+New Hampshire,2005,Sullivan,Suncook,2005-12-31,38.0,53.0,177.0,164.0,177.0
+New Hampshire,2006,Sullivan,Suncook,2006-12-31,64.0,45.0,151.0,146.0,151.0
+New Hampshire,2007,Sullivan,Suncook,2007-12-31,26.0,47.0,179.0,161.0,179.0
+New Hampshire,2008,Sullivan,Suncook,2008-12-31,50.0,73.0,154.0,200.0,200.0
+New Hampshire,2009,Rockingham,Suncook,2009-12-31,26.0,47.0,143.0,193.0,193.0
+New Hampshire,2010,Rockingham,Suncook,2010-12-31,27.0,61.0,140.0,200.0,200.0
+New Hampshire,2011,Rockingham,Suncook,2011-12-31,28.0,11.0,161.0,183.0,183.0
+New Hampshire,2012,Rockingham,Suncook,2012-12-31,19.0,10.0,150.0,102.0,150.0
+New Hampshire,2013,Rockingham,Suncook,2013-12-31,14.0,8.0,119.0,49.0,119.0
+New Hampshire,2014,Rockingham,Suncook,2014-12-31,6.0,28.0,129.0,70.0,129.0
+New Hampshire,2015,Rockingham,Suncook,2015-12-31,6.0,35.0,129.0,43.0,129.0
+New Hampshire,2016,Rockingham,Suncook,2016-12-31,5.0,25.0,122.0,26.0,122.0
+New Hampshire,2017,Rockingham,Suncook,2017-12-31,6.0,31.0,112.0,29.0,112.0
+New Hampshire,2018,Rockingham,Suncook,2018-12-31,5.0,25.0,115.0,43.0,115.0
+New Hampshire,2019,Rockingham,Suncook,2019-07-30,0.0,27.0,80.0,72.0,80.0
+New Jersey,2000,Union,Winslow (Township of),2000-12-31,61.0,104.0,227.0,105.0,227.0
+New Jersey,2001,Union,Winslow (Township of),2001-12-31,56.0,109.0,218.0,141.0,218.0
+New Jersey,2002,Union,Winslow (Township of),2002-12-31,43.0,106.0,236.0,105.0,236.0
+New Jersey,2003,Union,Winslow (Township of),2003-12-31,35.5,108.0,226.0,117.0,226.0
+New Jersey,2004,Union,Winslow (Township of),2004-12-31,38.0,111.0,195.0,100.0,195.0
+New Jersey,2005,Union,Winslow (Township of),2005-12-31,38.0,104.0,204.0,150.0,204.0
+New Jersey,2006,Union,Winslow (Township of),2006-12-31,31.0,107.0,210.0,96.0,210.0
+New Jersey,2007,Union,Winslow (Township of),2007-12-31,30.0,104.0,202.0,79.0,202.0
+New Jersey,2008,Union,Winslow (Township of),2008-12-31,50.0,93.0,190.0,105.0,190.0
+New Jersey,2009,Union,Winslow (Township of),2009-12-31,27.0,94.0,150.0,56.0,150.0
+New Jersey,2010,Warren,Winslow (Township of),2010-12-31,34.0,102.0,206.0,149.0,206.0
+New Jersey,2011,Warren,Winslow (Township of),2011-12-31,34.0,100.0,192.0,140.0,192.0
+New Jersey,2012,Warren,Winslow (Township of),2012-12-31,35.0,89.0,179.0,110.0,179.0
+New Jersey,2013,Warren,Winslow (Township of),2013-12-31,25.0,82.0,154.0,121.0,154.0
+New Jersey,2014,Warren,Winslow (Township of),2014-12-31,28.0,131.0,174.0,123.0,174.0
+New Jersey,2015,Warren,Winslow (Township of),2015-12-31,23.0,119.0,166.0,30.0,166.0
+New Jersey,2016,Warren,Winslow (Township of),2016-12-31,27.5,95.0,161.0,142.0,161.0
+New Jersey,2017,Warren,Winslow (Township of),2017-12-31,20.0,91.0,143.0,14.0,143.0
+New Jersey,2018,Warren,Winslow (Township of),2018-12-31,36.0,107.0,187.0,21.0,187.0
+New Jersey,2019,Warren,Winslow (Township of),2019-07-31,0.0,103.0,150.0,17.0,150.0
+New Mexico,2000,Valencia,Santa Fe,2000-12-31,39.0,107.0,151.0,165.0,165.0
+New Mexico,2001,Valencia,Santa Fe,2001-12-31,40.0,103.0,126.0,163.0,163.0
+New Mexico,2002,Valencia,South Valley,2002-12-31,36.0,63.0,140.0,126.0,140.0
+New Mexico,2003,Valencia,South Valley,2003-12-31,32.0,66.0,140.0,135.0,140.0
+New Mexico,2004,Santa Fe,South Valley,2004-12-31,28.0,73.0,119.0,119.0,119.0
+New Mexico,2005,Santa Fe,South Valley,2005-12-31,28.0,53.0,143.0,151.0,151.0
+New Mexico,2006,Santa Fe,South Valley,2006-12-31,32.0,62.0,154.0,161.0,161.0
+New Mexico,2007,Santa Fe,South Valley,2007-12-31,26.166666666666668,67.0,136.0,123.0,136.0
+New Mexico,2008,Santa Fe,South Valley,2008-12-31,26.0,97.0,115.0,40.0,115.0
+New Mexico,2009,Valencia,South Valley,2009-12-31,28.0,52.0,108.0,43.0,108.0
+New Mexico,2010,Valencia,South Valley,2010-12-31,35.0,80.0,140.0,200.0,200.0
+New Mexico,2011,Valencia,South Valley,2011-12-31,20.0,58.0,136.0,140.0,140.0
+New Mexico,2012,Valencia,South Valley,2012-12-31,22.5,66.5,140.0,44.0,140.0
+New Mexico,2013,Valencia,South Valley,2013-12-31,13.0,49.0,122.0,46.0,122.0
+New Mexico,2014,Valencia,South Valley,2014-12-31,15.0,53.0,115.0,92.0,115.0
+New Mexico,2015,Valencia,South Valley,2015-12-31,16.0,52.0,113.42857142857143,14.0,113.42857142857143
+New Mexico,2016,Valencia,South Valley,2016-12-31,23.0,52.5,107.0,23.0,107.0
+New Mexico,2017,Valencia,South Valley,2017-12-31,13.0,45.0,140.0,43.0,140.0
+New Mexico,2018,Valencia,South Valley,2018-12-31,11.0,47.5,185.0,34.0,185.0
+New Mexico,2019,Valencia,South Valley,2019-09-30,0.0,54.0,174.0,13.0,174.0
+New York,2000,Westchester,White Plains,2000-12-31,55.0,101.5,216.0,200.0,216.0
+New York,2001,Westchester,White Plains,2001-12-31,47.0,103.0,213.0,200.0,213.0
+New York,2002,Westchester,White Plains,2002-12-31,43.0,104.0,234.0,200.0,234.0
+New York,2003,Westchester,White Plains,2003-12-31,38.0,102.5,214.0,200.0,214.0
+New York,2004,Westchester,White Plains,2004-12-31,34.0,104.0,201.0,157.0,201.0
+New York,2005,Westchester,White Plains,2005-12-31,30.0,104.0,217.0,153.0,217.0
+New York,2006,Westchester,White Plains,2006-12-31,34.0,91.0,226.0,150.0,226.0
+New York,2007,Westchester,White Plains,2007-12-31,32.0,113.0,195.0,167.0,195.0
+New York,2008,Westchester,White Plains,2008-12-31,20.0,99.0,201.0,102.0,201.0
+New York,2009,Westchester,White Plains,2009-12-31,28.0,97.0,154.0,108.0,154.0
+New York,2010,Westchester,White Plains,2010-12-31,31.0,102.0,208.0,76.0,208.0
+New York,2011,Westchester,White Plains,2011-12-31,32.0,104.0,209.0,86.0,209.0
+New York,2012,Westchester,White Plains,2012-12-31,18.0,72.0,197.0,86.0,197.0
+New York,2013,Westchester,White Plains,2013-12-31,20.0,79.0,159.0,46.0,159.0
+New York,2014,Westchester,White Plains,2014-12-31,18.0,79.0,187.0,46.0,187.0
+New York,2015,Westchester,White Plains,2015-12-31,20.0,97.0,150.0,55.0,150.0
+New York,2016,Westchester,White Plains,2016-12-31,17.0,80.5,156.0,69.0,156.0
+New York,2017,Westchester,White Plains,2017-12-31,12.0,78.0,159.0,68.0,159.0
+New York,2018,Westchester,White Plains,2018-12-31,19.0,73.5,210.0,101.0,210.0
+New York,2019,Westchester,White Plains,2019-09-30,0.0,60.0,150.0,115.0,150.0
+North Carolina,2000,Yancey,Winston-Salem,2000-12-31,60.0,94.0,207.0,147.0,207.0
+North Carolina,2001,Yancey,Winston-Salem,2001-12-31,50.0,72.0,218.0,140.0,218.0
+North Carolina,2002,Yancey,Winston-Salem,2002-12-31,43.5,68.0,215.0,200.0,215.0
+North Carolina,2003,Yancey,Winston-Salem,2003-12-31,47.0,66.0,212.0,128.0,212.0
+North Carolina,2004,Yancey,Winston-Salem,2004-12-31,36.0,79.0,202.0,180.0,202.0
+North Carolina,2005,Yancey,Winston-Salem,2005-12-31,33.0,64.0,206.0,173.0,206.0
+North Carolina,2006,Yancey,Winston-Salem,2006-12-31,34.0,57.0,192.0,145.0,192.0
+North Carolina,2007,Yancey,Winston-Salem,2007-12-31,28.0,57.0,221.0,148.0,221.0
+North Carolina,2008,Yancey,Winston-Salem,2008-12-31,27.0,58.0,179.0,142.0,179.0
+North Carolina,2009,Yancey,Winston-Salem,2009-12-31,21.0,55.0,133.0,120.0,133.0
+North Carolina,2010,Yancey,Winston-Salem,2010-12-31,22.0,93.0,177.0,144.0,177.0
+North Carolina,2011,Yancey,Winston-Salem,2011-12-31,26.0,48.0,160.0,101.0,160.0
+North Carolina,2012,Yancey,Winston-Salem,2012-12-31,16.0,49.0,206.0,82.0,206.0
+North Carolina,2013,Yancey,Winston-Salem,2013-12-31,20.0,39.0,119.0,79.0,119.0
+North Carolina,2014,Yancey,Winston-Salem,2014-12-31,18.0,108.0,119.0,90.0,119.0
+North Carolina,2015,Yancey,Winston-Salem,2015-12-31,16.0,96.0,129.0,54.0,129.0
+North Carolina,2016,Yancey,Winston-Salem,2016-12-31,24.0,51.0,156.0,128.0,156.0
+North Carolina,2017,Yancey,Winston-Salem,2017-12-31,15.0,49.0,115.0,183.0,183.0
+North Carolina,2018,Yancey,Winston-Salem,2018-12-31,15.0,39.0,122.0,199.0,199.0
+North Carolina,2019,Yancey,Winston-Salem,2019-09-30,0.0,37.0,131.0,108.0,131.0
+North Dakota,2000,Williams,Sharon,2000-12-31,0.0,44.0,101.0,139.0,139.0
+North Dakota,2001,Williams,Not in a city,2001-12-31,0.0,54.0,84.0,136.0,136.0
+North Dakota,2002,Williams,Not in a city,2002-12-31,0.0,35.0,93.0,127.0,127.0
+North Dakota,2003,Williams,Not in a city,2003-12-31,0.0,45.0,133.0,137.0,137.0
+North Dakota,2004,Williams,Not in a city,2004-12-31,0.0,47.0,87.0,176.5,176.5
+North Dakota,2005,Williams,Not in a city,2005-12-31,0.0,47.0,80.0,119.0,119.0
+North Dakota,2006,Williams,Not in a city,2006-12-31,0.0,44.0,115.0,85.0,115.0
+North Dakota,2007,Williams,Not in a city,2007-12-31,0.0,42.0,101.0,103.0,103.0
+North Dakota,2008,Williams,Not in a city,2008-12-31,14.0,50.0,87.0,120.0,120.0
+North Dakota,2009,Williams,Not in a city,2009-12-31,8.0,54.0,74.0,80.0,80.0
+North Dakota,2010,Williams,Not in a city,2010-12-31,7.0,55.0,100.0,122.0,122.0
+North Dakota,2011,Williams,Not in a city,2011-12-31,5.0,125.0,84.0,124.0,125.0
+North Dakota,2012,Williams,Not in a city,2012-12-31,6.0,47.0,90.0,107.0,107.0
+North Dakota,2013,Williams,Williston,2013-12-31,5.0,88.0,93.0,107.0,107.0
+North Dakota,2014,Williams,Williston,2014-12-31,5.0,87.0,80.0,89.5,89.5
+North Dakota,2015,Williams,Williston,2015-12-31,9.0,103.0,101.0,74.0,103.0
+North Dakota,2016,Williams,Williston,2016-12-31,5.0,99.0,67.0,56.0,99.0
+North Dakota,2017,Williams,Williston,2017-12-31,8.0,42.0,90.0,108.0,108.0
+North Dakota,2018,Williams,Williston,2018-12-31,6.0,45.0,100.0,69.33333333333333,100.0
+North Dakota,2019,Williams,Williston,2019-09-30,0.0,86.0,90.0,57.0,90.0
+Ohio,2000,Wood,Youngstown,2000-12-31,76.0,88.0,209.0,200.0,209.0
+Ohio,2001,Wood,Youngstown,2001-12-31,202.0,81.0,203.0,200.0,203.0
+Ohio,2002,Wood,Youngstown,2002-12-31,65.0,84.0,218.0,200.0,218.0
+Ohio,2003,Wood,Youngstown,2003-12-31,68.0,102.0,225.0,200.0,225.0
+Ohio,2004,Wood,Youngstown,2004-12-31,47.0,112.0,161.0,200.0,200.0
+Ohio,2005,Wood,Youngstown,2005-12-31,72.2,106.0,214.0,200.0,214.0
+Ohio,2006,Wood,Youngstown,2006-12-31,52.0,72.0,185.0,200.0,200.0
+Ohio,2007,Wood,Youngstown,2007-12-31,64.0,80.0,197.0,176.0,197.0
+Ohio,2008,Wood,Youngstown,2008-12-31,41.0,78.0,174.0,200.0,200.0
+Ohio,2009,Wood,Youngstown,2009-12-31,42.5,82.0,156.0,200.0,200.0
+Ohio,2010,Wood,Youngstown,2010-12-31,24.666666666666668,77.0,172.0,200.0,200.0
+Ohio,2011,Wood,Youngstown,2011-12-31,36.0,53.0,179.0,161.0,179.0
+Ohio,2012,Wood,Youngstown,2012-12-31,30.0,57.0,203.0,173.0,203.0
+Ohio,2013,Wood,Youngstown,2013-12-31,29.0,94.0,150.0,200.0,200.0
+Ohio,2014,Wood,Youngstown,2014-12-31,29.0,64.0,143.0,157.0,157.0
+Ohio,2015,Wood,Youngstown,2015-12-31,24.0,65.5,151.0,156.0,156.0
+Ohio,2016,Wood,Youngstown,2016-12-31,27.5,66.0,143.0,200.0,200.0
+Ohio,2017,Wood,Youngstown,2017-12-31,38.0,66.0,147.0,89.5,147.0
+Ohio,2018,Wood,Youngstown,2018-12-31,27.0,72.0,159.0,138.0,159.0
+Ohio,2019,Wood,Youngstown,2019-09-30,0.0,57.0,143.0,91.0,143.0
+Oklahoma,2000,Tulsa,Tulsa,2000-12-31,42.0,137.0,219.0,112.0,219.0
+Oklahoma,2001,Tulsa,Waurika,2001-12-31,55.0,108.0,205.0,138.0,205.0
+Oklahoma,2002,Tulsa,Yukon,2002-12-31,34.0,63.0,185.0,121.0,185.0
+Oklahoma,2003,Tulsa,Yukon,2003-12-31,33.0,71.0,172.0,105.0,172.0
+Oklahoma,2004,Tulsa,Yukon,2004-12-31,27.0,105.0,169.0,125.0,169.0
+Oklahoma,2005,Tulsa,Yukon,2005-12-31,27.0,88.0,177.0,156.5,177.0
+Oklahoma,2006,Tulsa,Yukon,2006-12-31,24.0,57.0,204.0,200.0,204.0
+Oklahoma,2007,Tulsa,Yukon,2007-12-31,125.0,56.0,172.0,161.0,172.0
+Oklahoma,2008,Tulsa,Yukon,2008-12-31,16.0,52.0,187.0,107.0,187.0
+Oklahoma,2009,Tulsa,Yukon,2009-12-31,17.0,91.0,147.0,74.0,147.0
+Oklahoma,2010,Tulsa,Yukon,2010-12-31,20.5,48.0,151.0,90.0,151.0
+Oklahoma,2011,Tulsa,Yukon,2011-12-31,16.0,53.0,179.0,123.0,179.0
+Oklahoma,2012,Tulsa,Yukon,2012-12-31,14.0,66.0,166.0,106.0,166.0
+Oklahoma,2013,Tulsa,Yukon,2013-12-31,15.0,56.5,150.0,64.0,150.0
+Oklahoma,2014,Tulsa,Yukon,2014-12-31,11.0,57.0,136.0,94.0,136.0
+Oklahoma,2015,Tulsa,Yukon,2015-12-31,23.0,48.0,122.0,80.0,122.0
+Oklahoma,2016,Washington,Yukon,2016-12-31,22.0,47.5,164.0,101.0,164.0
+Oklahoma,2017,Washington,Yukon,2017-12-31,12.0,51.5,151.0,101.0,151.0
+Oklahoma,2018,Washington,Yukon,2018-12-31,14.0,43.5,160.5,102.0,160.5
+Oklahoma,2019,Tulsa,Yukon,2019-09-30,0.0,45.0,119.0,74.0,119.0
+Oregon,2000,Multnomah,Salem,2000-12-31,109.0,65.0,105.0,0.0,109.0
+Oregon,2001,Multnomah,Salem,2001-12-31,218.33333333333334,49.0,133.0,0.0,218.33333333333334
+Oregon,2002,Multnomah,Salem,2002-12-31,62.0,43.0,150.0,0.0,150.0
+Oregon,2003,Multnomah,Toledo,2003-12-31,58.0,58.0,147.0,6.0,147.0
+Oregon,2004,Multnomah,Toledo,2004-12-31,59.0,38.0,147.0,71.0,147.0
+Oregon,2005,Multnomah,Salem,2005-12-31,55.0,54.0,147.0,30.0,147.0
+Oregon,2006,Multnomah,Salem,2006-12-31,178.0,57.0,201.0,27.0,201.0
+Oregon,2007,Umatilla,Portland,2007-12-31,35.0,50.0,129.0,20.0,129.0
+Oregon,2008,Washington,Portland,2008-12-31,30.0,60.0,150.0,21.0,150.0
+Oregon,2009,Washington,Portland,2009-12-31,28.5,52.0,140.0,27.0,140.0
+Oregon,2010,Washington,Portland,2010-12-31,27.0,38.0,172.0,11.0,172.0
+Oregon,2011,Washington,Portland,2011-12-31,30.0,36.0,119.0,21.0,119.0
+Oregon,2012,Washington,Portland,2012-12-31,26.0,56.0,108.0,13.0,108.0
+Oregon,2013,Washington,Portland,2013-12-31,23.0,36.0,100.0,16.0,100.0
+Oregon,2014,Washington,Tualatin,2014-12-31,15.0,45.0,136.0,6.0,136.0
+Oregon,2015,Washington,Tualatin,2015-12-31,23.0,43.0,151.0,11.0,151.0
+Oregon,2016,Washington,Tualatin,2016-12-31,17.0,39.0,112.0,4.0,112.0
+Oregon,2017,Washington,Tualatin,2017-12-31,14.0,50.0,212.0,6.0,212.0
+Oregon,2018,Washington,Tualatin,2018-12-31,18.0,44.0,119.0,12.5,119.0
+Oregon,2019,Washington,Tualatin,2019-06-30,0.0,40.0,90.0,3.0,90.0
+Pennsylvania,2000,York,York,2000-12-31,85.0,101.0,228.0,200.0,228.0
+Pennsylvania,2001,York,York,2001-12-31,59.0,117.0,215.0,197.0,215.0
+Pennsylvania,2002,York,York,2002-12-31,71.0,133.0,227.0,200.0,227.0
+Pennsylvania,2003,York,York,2003-12-31,55.0,102.0,218.0,200.0,218.0
+Pennsylvania,2004,York,York,2004-12-31,36.0,97.0,200.0,200.0,200.0
+Pennsylvania,2005,York,York,2005-12-31,29.0,105.0,204.0,200.0,204.0
+Pennsylvania,2006,York,York,2006-12-31,26.0,102.0,195.0,200.0,200.0
+Pennsylvania,2007,York,York,2007-12-31,32.0,81.5,217.0,184.0,217.0
+Pennsylvania,2008,York,York,2008-12-31,23.0,87.5,192.0,182.0,192.0
+Pennsylvania,2009,York,York,2009-12-31,32.0,106.0,147.0,154.0,154.0
+Pennsylvania,2010,York,York,2010-12-31,27.0,104.0,200.0,163.0,200.0
+Pennsylvania,2011,York,York,2011-12-31,20.0,101.0,162.5,200.0,200.0
+Pennsylvania,2012,York,York,2012-12-31,26.0,71.0,185.0,200.0,200.0
+Pennsylvania,2013,York,York,2013-12-31,22.0,73.0,182.0,136.0,182.0
+Pennsylvania,2014,York,York,2014-12-31,23.0,62.0,172.0,156.0,172.0
+Pennsylvania,2015,York,York,2015-12-31,34.0,85.0,166.0,175.0,175.0
+Pennsylvania,2016,York,York,2016-12-31,40.0,56.0,147.0,144.0,147.0
+Pennsylvania,2017,York,York,2017-12-31,44.0,74.0,147.5,200.0,200.0
+Pennsylvania,2018,York,York,2018-12-31,38.0,86.0,164.0,146.0,164.0
+Pennsylvania,2019,York,York,2019-09-30,0.0,52.5,136.0,120.0,136.0
+Puerto Rico,2000,San Juan,Tiburones,2000-12-31,64.0,106.0,74.0,186.0,186.0
+Puerto Rico,2001,San Juan,Tiburones,2001-12-31,47.0,65.0,43.0,175.0,175.0
+Puerto Rico,2002,San Juan,Tiburones,2002-12-31,43.5,34.0,71.0,105.0,105.0
+Puerto Rico,2003,San Juan,Tiburones,2003-12-31,48.0,29.0,0.0,89.0,89.0
+Puerto Rico,2004,San Juan,Tiburones,2004-12-31,42.0,49.0,27.0,127.0,127.0
+Puerto Rico,2005,San Juan,Tiburones,2005-12-31,39.5,38.0,30.0,107.0,107.0
+Puerto Rico,2006,San Juan,San Juan,2006-12-31,28.0,36.0,29.0,102.0,102.0
+Puerto Rico,2007,San Juan,San Juan,2007-12-31,25.0,30.0,33.0,69.0,69.0
+Puerto Rico,2008,San Juan,San Juan,2008-12-31,26.0,0.0,159.0,105.0,159.0
+Puerto Rico,2009,San Juan,San Juan,2009-12-31,28.0,0.0,71.0,124.0,124.0
+Puerto Rico,2010,San Juan,San Juan,2010-12-31,77.0,0.0,43.0,170.0,170.0
+Puerto Rico,2011,San Juan,San Juan,2011-12-31,49.0,0.0,47.0,91.0,91.0
+Puerto Rico,2012,San Juan,San Juan,2012-12-31,51.0,74.0,51.0,80.0,80.0
+Puerto Rico,2013,San Juan,San Juan,2013-12-31,50.0,0.0,33.0,200.0,200.0
+Puerto Rico,2014,San Juan,San Juan,2014-12-31,253.0,0.0,38.0,166.0,253.0
+Puerto Rico,2015,San Juan,San Juan,2015-12-31,43.0,100.0,49.0,196.0,196.0
+Puerto Rico,2016,San Juan,San Juan,2016-12-31,83.0,119.0,112.0,200.0,200.0
+Puerto Rico,2017,San Juan,San Juan,2017-09-18,48.0,101.0,87.0,80.0,101.0
+Puerto Rico,2018,Ponce,Ponce,2018-12-31,120.0,76.0,22.0,54.0,120.0
+Puerto Rico,2019,Mayagnez,Mayaguez,2019-06-30,0.0,105.0,300.0,96.0,300.0
+Rhode Island,2000,Washington,Providence,2000-12-31,52.0,104.0,222.0,71.0,222.0
+Rhode Island,2001,Washington,Providence,2001-12-31,45.0,90.0,219.0,92.0,219.0
+Rhode Island,2002,Washington,Providence,2002-12-31,35.0,66.0,216.0,71.0,216.0
+Rhode Island,2003,Washington,Providence,2003-12-31,28.0,73.0,208.0,78.0,208.0
+Rhode Island,2004,Washington,Providence,2004-12-31,28.0,55.0,205.0,73.5,205.0
+Rhode Island,2005,Washington,Providence,2005-12-31,39.0,71.0,182.0,87.5,182.0
+Rhode Island,2006,Washington,Providence,2006-12-31,43.0,54.0,226.0,55.0,226.0
+Rhode Island,2007,Washington,Providence,2007-12-31,33.0,69.0,187.0,65.0,187.0
+Rhode Island,2008,Washington,Providence,2008-12-31,11.0,58.0,159.0,43.0,159.0
+Rhode Island,2009,Washington,Providence,2009-12-31,16.0,60.0,119.0,47.0,119.0
+Rhode Island,2010,Washington,Providence,2010-12-31,20.0,42.0,151.0,46.0,151.0
+Rhode Island,2011,Washington,Providence,2011-12-31,16.0,61.0,147.0,43.0,147.0
+Rhode Island,2012,Washington,Providence,2012-12-31,15.0,44.0,179.0,41.0,179.0
+Rhode Island,2013,Washington,Providence,2013-12-31,15.0,56.0,169.0,24.0,169.0
+Rhode Island,2014,Washington,Providence,2014-12-31,22.0,46.5,108.0,20.0,108.0
+Rhode Island,2015,Washington,Providence,2015-12-31,28.0,75.5,166.0,23.0,166.0
+Rhode Island,2016,Washington,Providence,2016-12-31,23.0,59.5,151.0,9.0,151.0
+Rhode Island,2017,Washington,Providence,2017-12-31,20.0,49.0,151.0,20.0,151.0
+Rhode Island,2018,Washington,Providence,2018-12-31,18.0,52.0,147.0,7.0,147.0
+Rhode Island,2019,Washington,Providence,2019-06-30,0.0,61.0,108.0,3.0,108.0
+South Carolina,2000,York,Taylors,2000-12-31,49.0,73.0,197.0,120.0,197.0
+South Carolina,2001,York,Taylors,2001-12-31,43.0,71.0,197.0,129.0,197.0
+South Carolina,2002,York,Seven Oaks,2002-12-31,40.0,94.0,202.0,121.0,202.0
+South Carolina,2003,York,Seven Oaks,2003-12-31,35.0,77.0,172.0,134.0,172.0
+South Carolina,2004,York,Taylors,2004-12-31,31.0,93.0,182.0,123.0,182.0
+South Carolina,2005,York,Taylors,2005-12-31,36.0,57.0,164.0,127.0,164.0
+South Carolina,2006,York,Taylors,2006-12-31,28.0,60.0,172.0,124.0,172.0
+South Carolina,2007,York,Taylors,2007-12-31,28.0,104.0,169.0,130.0,169.0
+South Carolina,2008,York,Taylors,2008-12-31,17.0,52.0,205.0,133.0,205.0
+South Carolina,2009,York,Simpsonville,2009-12-31,16.0,52.0,112.0,112.0,112.0
+South Carolina,2010,York,Simpsonville,2010-12-31,15.0,55.0,140.0,139.0,140.0
+South Carolina,2011,York,Simpsonville,2011-12-31,13.0,47.0,157.5,121.0,157.5
+South Carolina,2012,York,Simpsonville,2012-12-31,15.0,79.0,161.0,96.0,161.0
+South Carolina,2013,York,Simpsonville,2013-12-31,8.0,48.0,105.0,91.0,105.0
+South Carolina,2014,York,Simpsonville,2014-12-31,8.0,49.0,100.0,107.0,107.0
+South Carolina,2015,York,Simpsonville,2015-12-31,10.0,48.0,112.0,50.0,112.0
+South Carolina,2016,York,Simpsonville,2016-12-31,11.0,47.0,133.0,24.0,133.0
+South Carolina,2017,York,Simpsonville,2017-12-31,9.0,43.0,112.0,30.0,112.0
+South Carolina,2018,York,Simpsonville,2018-12-31,8.0,42.0,115.0,21.0,115.0
+South Carolina,2019,York,Simpsonville,2019-09-30,0.0,45.0,140.0,29.0,140.0
+South Dakota,2000,Pennington,Sioux Falls,2000-12-31,0.0,0.0,101.0,0.0,101.0
+South Dakota,2001,Roberts,Sioux Falls,2001-12-31,0.0,16.0,122.0,7.0,122.0
+South Dakota,2002,Roberts,Sioux Falls,2002-12-31,0.0,24.0,122.0,52.0,122.0
+South Dakota,2003,Pennington,Sioux Falls,2003-12-31,0.0,44.0,122.0,95.0,122.0
+South Dakota,2004,Pennington,Sioux Falls,2004-12-31,0.0,52.0,97.0,62.0,97.0
+South Dakota,2005,Pennington,Sioux Falls,2005-12-31,0.0,37.0,122.0,85.0,122.0
+South Dakota,2006,Pennington,Sioux Falls,2006-12-31,0.0,39.0,126.0,24.0,126.0
+South Dakota,2007,Minnehaha,Sioux Falls,2007-12-31,0.0,41.0,115.0,60.0,115.0
+South Dakota,2008,Minnehaha,Sioux Falls,2008-12-31,0.0,42.0,77.0,44.0,77.0
+South Dakota,2009,Union,Sioux Falls,2009-12-31,3.0,107.0,87.0,46.0,107.0
+South Dakota,2010,Union,Sioux Falls,2010-12-31,3.0,66.0,97.0,37.0,97.0
+South Dakota,2011,Union,Sioux Falls,2011-12-31,10.0,55.0,105.0,23.0,105.0
+South Dakota,2012,Union,Sioux Falls,2012-12-31,10.0,62.0,115.0,20.0,115.0
+South Dakota,2013,Union,Sioux Falls,2013-12-31,6.0,44.0,97.0,37.0,97.0
+South Dakota,2014,Union,Sioux Falls,2014-12-31,6.0,49.0,105.0,29.0,105.0
+South Dakota,2015,Union,Sioux Falls,2015-12-31,8.0,44.0,122.0,11.0,122.0
+South Dakota,2016,Union,Sioux Falls,2016-12-31,9.0,46.0,105.0,9.0,105.0
+South Dakota,2017,Union,Sioux Falls,2017-12-31,11.0,42.0,100.0,13.0,100.0
+South Dakota,2018,Union,Sioux Falls,2018-12-31,7.0,47.0,115.0,6.0,115.0
+South Dakota,2019,Union,Sioux Falls,2019-06-30,0.0,60.0,126.0,41.0,126.0
+Tennessee,2000,Wilson,Soddy-Daisy,2000-12-31,49.5,110.0,212.0,200.0,212.0
+Tennessee,2001,Wilson,Union City,2001-12-31,55.666666666666664,89.0,209.0,200.0,209.0
+Tennessee,2002,Wilson,Soddy-Daisy,2002-12-31,44.0,109.0,207.0,183.0,207.0
+Tennessee,2003,Wilson,Soddy-Daisy,2003-12-31,43.0,109.0,195.0,195.0,195.0
+Tennessee,2004,Wilson,Soddy-Daisy,2004-12-31,49.0,79.0,200.0,166.0,200.0
+Tennessee,2005,Wilson,Soddy-Daisy,2005-12-31,31.5,111.0,200.0,146.0,200.0
+Tennessee,2006,Wilson,Soddy-Daisy,2006-12-31,35.0,94.0,203.0,188.0,203.0
+Tennessee,2007,Wilson,Soddy-Daisy,2007-12-31,27.0,63.0,215.0,200.0,215.0
+Tennessee,2008,Wilson,Soddy-Daisy,2008-12-31,27.0,71.0,190.0,200.0,200.0
+Tennessee,2009,Wilson,Soddy-Daisy,2009-12-31,28.0,46.0,140.0,144.0,144.0
+Tennessee,2010,Wilson,Soddy-Daisy,2010-12-31,26.0,50.0,156.0,200.0,200.0
+Tennessee,2011,Wilson,Soddy-Daisy,2011-12-31,18.0,63.0,159.0,198.0,198.0
+Tennessee,2012,Wilson,Soddy-Daisy,2012-12-31,19.0,60.0,217.0,190.0,217.0
+Tennessee,2013,Wilson,Soddy-Daisy,2013-12-31,16.0,101.0,119.0,136.0,136.0
+Tennessee,2014,Wilson,Soddy-Daisy,2014-12-31,15.0,61.0,122.0,150.0,150.0
+Tennessee,2015,Wilson,Soddy-Daisy,2015-12-31,21.333333333333332,61.0,133.0,138.0,138.0
+Tennessee,2016,Wilson,Soddy-Daisy,2016-12-31,18.0,63.0,143.0,155.0,155.0
+Tennessee,2017,Wilson,Soddy-Daisy,2017-12-31,19.0,56.0,125.5,142.5,142.5
+Tennessee,2018,Wilson,Soddy-Daisy,2018-12-31,18.0,54.0,136.5,98.0,136.5
+Tennessee,2019,Wilson,Soddy-Daisy,2019-09-30,0.0,56.0,97.0,52.75,97.0
+Texas,2000,Webb,West Orange,2000-12-31,70.33333333333333,80.0,226.0,166.0,226.0
+Texas,2001,Webb,West Orange,2001-12-31,63.5,81.0,235.0,173.0,235.0
+Texas,2002,Webb,West Orange,2002-12-31,52.142857142857146,101.0,223.0,118.0,223.0
+Texas,2003,Webb,West Orange,2003-12-31,43.666666666666664,100.0,238.0,200.0,238.0
+Texas,2004,Webb,West Orange,2004-12-31,39.5,109.0,214.0,123.0,214.0
+Texas,2005,Webb,West Orange,2005-12-31,42.0,82.0,219.0,124.0,219.0
+Texas,2006,Webb,West Orange,2006-12-31,51.0,104.0,217.0,134.0,217.0
+Texas,2007,Webb,West Orange,2007-12-31,26.0,102.0,217.0,142.0,217.0
+Texas,2008,Webb,West Orange,2008-12-31,34.5,106.0,195.0,153.0,195.0
+Texas,2009,Webb,West Orange,2009-12-31,22.0,104.0,195.0,200.0,200.0
+Texas,2010,Webb,West Orange,2010-12-31,21.375,103.0,177.0,135.0,177.0
+Texas,2011,Webb,West Orange,2011-12-31,20.75,65.66666666666667,207.0,129.5,207.0
+Texas,2012,Webb,West Orange,2012-12-31,22.666666666666668,107.0,233.0,107.0,233.0
+Texas,2013,Webb,West Orange,2013-12-31,19.4,62.0,197.0,113.0,197.0
+Texas,2014,Webb,West Orange,2014-12-31,21.2,97.0,174.0,120.0,174.0
+Texas,2015,Webb,West Orange,2015-12-31,24.5,77.0,190.0,105.0,190.0
+Texas,2016,Webb,West Orange,2016-12-31,23.0,95.0,174.0,149.0,174.0
+Texas,2017,Webb,West Orange,2017-12-31,20.0,72.0,159.0,193.0,193.0
+Texas,2018,Webb,West Orange,2018-12-31,26.0,83.0,202.0,200.0,202.0
+Texas,2019,Webb,West Orange,2019-08-31,0.0,56.0,161.0,193.0,193.0
+Utah,2000,Weber,West Valley,2000-12-31,78.0,105.0,214.0,152.0,214.0
+Utah,2001,Weber,West Valley,2001-12-31,68.0,100.0,204.0,103.0,204.0
+Utah,2002,Weber,West Valley,2002-12-31,60.0,112.0,174.0,101.0,174.0
+Utah,2003,Weber,West Valley,2003-12-31,58.0,109.0,195.0,109.0,195.0
+Utah,2004,Weber,West Valley,2004-12-31,72.0,96.0,133.0,84.0,133.0
+Utah,2005,Weber,West Valley,2005-12-31,59.0,100.0,207.0,107.0,207.0
+Utah,2006,Weber,West Valley,2006-12-31,61.0,108.0,174.0,100.0,174.0
+Utah,2007,Weber,West Valley,2007-12-31,108.0,101.0,174.0,123.0,174.0
+Utah,2008,Weber,West Valley,2008-12-31,49.5,82.0,166.0,126.0,166.0
+Utah,2009,Weber,Virgin,2009-12-31,35.5,101.0,140.0,190.0,190.0
+Utah,2010,Weber,Virgin,2010-12-31,25.0,81.0,203.0,60.0,203.0
+Utah,2011,Weber,Virgin,2011-12-31,23.0,91.0,220.0,61.0,220.0
+Utah,2012,Weber,Virgin,2012-12-31,31.0,87.0,169.0,51.0,169.0
+Utah,2013,Weber,Virgin,2013-12-31,27.0,102.0,209.0,94.0,209.0
+Utah,2014,Weber,Virgin,2014-12-31,30.0,87.0,140.0,33.0,140.0
+Utah,2015,Weber,Virgin,2015-12-31,25.0,78.0,143.0,33.0,143.0
+Utah,2016,Weber,Virgin,2016-12-31,22.0,107.0,177.0,19.0,177.0
+Utah,2017,Weber,Virgin,2017-12-31,26.0,96.0,156.0,4.0,156.0
+Utah,2018,Weber,Virgin,2018-12-31,19.5,91.0,160.0,7.0,160.0
+Utah,2019,Weber,Virgin,2019-10-31,0.0,104.0,177.0,66.5,177.0
+Vermont,2000,Rutland,Underhill (Town of),2000-12-31,31.0,68.0,164.0,107.0,164.0
+Vermont,2001,Rutland,Underhill (Town of),2001-12-31,27.0,49.0,169.0,85.0,169.0
+Vermont,2002,Rutland,Underhill (Town of),2002-12-31,26.0,65.0,177.0,117.0,177.0
+Vermont,2003,Rutland,Underhill (Town of),2003-12-31,25.0,72.0,140.0,96.0,140.0
+Vermont,2004,Rutland,Underhill (Town of),2004-12-31,25.0,64.0,164.0,101.0,164.0
+Vermont,2005,Rutland,Underhill (Town of),2005-12-31,20.0,64.0,143.0,82.0,143.0
+Vermont,2006,Rutland,Underhill (Town of),2006-12-31,17.0,56.0,122.0,70.0,122.0
+Vermont,2007,Rutland,Underhill (Town of),2007-12-31,30.0,56.0,151.0,82.0,151.0
+Vermont,2008,Rutland,Underhill (Town of),2008-12-31,24.0,64.0,147.0,52.0,147.0
+Vermont,2009,Rutland,Underhill (Town of),2009-12-31,20.0,48.0,115.0,55.0,115.0
+Vermont,2010,Rutland,Underhill (Town of),2010-12-31,15.0,60.0,101.0,39.0,101.0
+Vermont,2011,Rutland,Underhill (Town of),2011-12-31,20.0,51.0,140.0,65.0,140.0
+Vermont,2012,Rutland,Underhill (Town of),2012-12-31,20.0,38.0,108.0,44.0,108.0
+Vermont,2013,Rutland,Underhill (Town of),2013-12-31,16.0,42.0,101.0,23.0,101.0
+Vermont,2014,Rutland,Underhill (Town of),2014-12-31,11.0,42.0,90.0,43.0,90.0
+Vermont,2015,Rutland,Underhill (Town of),2015-12-31,16.0,50.0,100.0,6.0,100.0
+Vermont,2016,Rutland,Underhill (Town of),2016-12-31,9.0,36.0,112.0,6.0,112.0
+Vermont,2017,Rutland,Underhill (Town of),2017-12-31,9.0,39.0,101.0,4.0,101.0
+Vermont,2018,Rutland,Underhill (Town of),2018-12-31,13.0,43.0,101.0,4.0,101.0
+Vermont,2019,Rutland,Underhill (Town of),2019-06-30,0.0,42.0,67.0,4.0,67.0
+Virgin Islands,2000,St John,Not in a city,2000-12-31,0.0,0.0,51.0,44.4,51.0
+Virgin Islands,2001,St John,Not in a city,2001-12-31,0.0,0.0,46.0,56.8,56.8
+Virgin Islands,2002,St John,Not in a city,2002-12-31,0.0,0.0,54.0,42.4,54.0
+Virgin Islands,2003,St John,Not in a city,2003-12-31,0.0,0.0,41.0,52.4,52.4
+Virgin Islands,2004,St Croix,Not in a city,2004-12-31,0.0,0.0,0.0,46.6,46.6
+Virgin Islands,2005,St Croix,Not in a city,2005-12-31,0.0,0.0,0.0,43.8,43.8
+Virgin Islands,2006,St Croix,Not in a city,2006-12-31,0.0,0.0,0.0,62.6,62.6
+Virgin Islands,2007,St Croix,Not in a city,2007-12-31,0.0,0.0,0.0,38.6,38.6
+Virgin Islands,2008,St Croix,Not in a city,2008-12-31,0.0,0.0,0.0,55.4,55.4
+Virgin Islands,2009,St Croix,Not in a city,2009-12-31,0.0,0.0,0.0,27.6,27.6
+Virgin Islands,2010,St Croix,Not in a city,2010-12-31,0.0,0.0,0.0,59.8,59.8
+Virgin Islands,2011,St Croix,Not in a city,2011-12-31,0.0,0.0,0.0,54.0,54.0
+Virgin Islands,2012,St Croix,Not in a city,2012-12-31,0.0,0.0,0.0,13.2,13.2
+Virgin Islands,2013,St Croix,Not in a city,2013-02-26,0.0,0.0,0.0,7.0,7.0
+Virginia,2000,Wythe,Vinton,2000-12-31,56.0,98.0,203.0,127.0,203.0
+Virginia,2001,Wythe,Vinton,2001-12-31,52.0,94.0,203.0,167.0,203.0
+Virginia,2002,Wythe,Vinton,2002-12-31,39.5,103.0,229.0,131.0,229.0
+Virginia,2003,Wythe,Vinton,2003-12-31,36.5,104.0,219.0,141.0,219.0
+Virginia,2004,Wythe,Vinton,2004-12-31,32.0,101.0,219.0,127.0,219.0
+Virginia,2005,Wythe,Vinton,2005-12-31,27.0,74.0,200.0,119.0,200.0
+Virginia,2006,Wythe,Vinton,2006-12-31,35.0,87.0,221.0,114.0,221.0
+Virginia,2007,Wythe,Vinton,2007-12-31,42.0,82.0,179.0,129.0,179.0
+Virginia,2008,Wythe,Vinton,2008-12-31,25.0,78.0,205.0,127.0,205.0
+Virginia,2009,Wythe,Virginia Beach,2009-12-31,23.0,96.0,133.0,105.0,133.0
+Virginia,2010,Wythe,Virginia Beach,2010-12-31,26.0,81.0,182.0,105.0,182.0
+Virginia,2011,Wythe,Vinton,2011-12-31,26.0,62.0,197.0,101.0,197.0
+Virginia,2012,Wythe,Vinton,2012-12-31,23.0,84.0,201.0,114.0,201.0
+Virginia,2013,Wythe,Vinton,2013-12-31,47.0,72.0,150.0,90.0,150.0
+Virginia,2014,Wythe,Vinton,2014-12-31,17.0,77.0,154.0,71.0,154.0
+Virginia,2015,Wythe,Vinton,2015-12-31,30.0,67.0,126.0,97.0,126.0
+Virginia,2016,Wythe,Vinton,2016-12-31,22.0,103.0,133.0,41.0,133.0
+Virginia,2017,Wythe,Vinton,2017-12-31,18.0,58.0,154.0,200.0,200.0
+Virginia,2018,Wythe,Vinton,2018-12-31,15.0,51.0,147.0,139.0,147.0
+Virginia,2019,Wythe,Vinton,2019-09-30,0.0,57.0,112.0,134.0,134.0
+Washington,2000,Yakima,Yakima,2000-12-31,76.0,69.0,149.0,80.0,149.0
+Washington,2001,Yakima,Yakima,2001-12-31,76.0,67.0,161.0,66.0,161.0
+Washington,2002,Yakima,Yakima,2002-12-31,65.0,63.0,143.0,102.0,143.0
+Washington,2003,Yakima,Yakima,2003-12-31,67.5,63.0,179.0,200.0,200.0
+Washington,2004,Yakima,Yakima,2004-12-31,56.0,71.0,154.0,104.0,154.0
+Washington,2005,Yakima,Yakima,2005-12-31,55.0,77.0,122.0,103.0,122.0
+Washington,2006,Yakima,Yelm,2006-12-31,46.0,50.0,206.0,107.0,206.0
+Washington,2007,Thurston,Yelm,2007-12-31,35.0,143.0,159.0,163.0,163.0
+Washington,2008,Thurston,Yelm,2008-12-31,31.0,153.0,164.0,102.0,164.0
+Washington,2009,Whatcom,Yelm,2009-12-31,34.0,31.0,147.0,71.0,147.0
+Washington,2010,Whatcom,Yelm,2010-12-31,26.0,67.0,205.0,43.0,205.0
+Washington,2011,Whatcom,Yelm,2011-12-31,28.0,86.0,97.0,39.0,97.0
+Washington,2012,Whatcom,Yelm,2012-12-31,24.0,56.0,140.0,43.0,140.0
+Washington,2013,Whatcom,Yelm,2013-12-31,27.0,52.0,108.0,16.0,108.0
+Washington,2014,Whatcom,Yelm,2014-12-31,25.0,70.0,150.0,10.0,150.0
+Washington,2015,Whatcom,Yelm,2015-12-31,33.0,65.0,136.0,20.0,136.0
+Washington,2016,Whatcom,Yelm,2016-12-31,23.0,61.0,122.0,11.0,122.0
+Washington,2017,Whatcom,Yelm,2017-12-31,19.0,84.0,195.0,78.0,195.0
+Washington,2018,Whatcom,Yelm,2018-12-31,12.0,125.0,150.0,81.0,150.0
+Washington,2019,Whatcom,Yelm,2019-07-31,0.0,80.0,90.0,114.0,114.0
+West Virginia,2000,Wood,Wheeling,2000-12-31,87.0,0.0,197.0,200.0,200.0
+West Virginia,2001,Wood,Wheeling,2001-12-31,63.0,0.0,182.0,200.0,200.0
+West Virginia,2002,Wood,Wheeling,2002-12-31,94.5,0.0,213.0,200.0,213.0
+West Virginia,2003,Wood,Wheeling,2003-12-31,90.5,79.0,209.0,191.0,209.0
+West Virginia,2004,Wood,Wheeling,2004-12-31,127.5,76.0,161.0,200.0,200.0
+West Virginia,2005,Wood,Wheeling,2005-12-31,34.0,93.0,179.0,195.0,195.0
+West Virginia,2006,Wood,Wheeling,2006-12-31,91.0,0.0,159.0,164.0,164.0
+West Virginia,2007,Wood,Wheeling,2007-12-31,28.0,0.0,172.0,200.0,200.0
+West Virginia,2008,Wood,Wheeling,2008-12-31,33.0,0.0,147.0,198.0,198.0
+West Virginia,2009,Wood,Wheeling,2009-12-31,10.5,0.0,115.0,200.0,200.0
+West Virginia,2010,Wood,Wheeling,2010-12-31,9.0,0.0,159.0,200.0,200.0
+West Virginia,2011,Wood,Wheeling,2011-12-31,13.0,0.0,164.0,200.0,200.0
+West Virginia,2012,Wood,Wheeling,2012-12-31,9.0,0.0,159.0,167.0,167.0
+West Virginia,2013,Wood,Wheeling,2013-12-31,11.0,0.0,140.0,95.0,140.0
+West Virginia,2014,Wood,Wheeling,2014-12-31,9.0,0.0,112.0,138.0,138.0
+West Virginia,2015,Wood,Wheeling,2015-12-31,9.0,0.0,133.0,105.0,133.0
+West Virginia,2016,Wood,Wheeling,2016-12-31,11.0,0.0,129.0,112.0,129.0
+West Virginia,2017,Wood,Wheeling,2017-12-31,10.0,0.0,105.0,200.0,200.0
+West Virginia,2018,Wood,Wheeling,2018-12-31,9.0,0.0,105.0,200.0,200.0
+West Virginia,2019,Wood,Wheeling,2019-09-30,0.0,0.0,93.0,161.0,161.0
+Wisconsin,2000,Wood,Wisconsin Rapids,2000-12-31,27.0,64.5,200.0,195.0,200.0
+Wisconsin,2001,Wood,Waukesha,2001-12-31,29.5,67.0,213.0,156.0,213.0
+Wisconsin,2002,Winnebago,Waukesha,2002-12-31,34.0,31.0,223.0,143.0,223.0
+Wisconsin,2003,Winnebago,Waukesha,2003-12-31,27.5,64.0,214.0,140.0,214.0
+Wisconsin,2004,Waukesha,Waukesha,2004-12-31,26.0,68.0,179.0,151.0,179.0
+Wisconsin,2005,Waukesha,Waukesha,2005-12-31,32.0,62.0,205.0,200.0,205.0
+Wisconsin,2006,Waukesha,Waukesha,2006-12-31,27.0,49.0,204.0,172.0,204.0
+Wisconsin,2007,Waukesha,Waukesha,2007-12-31,14.0,56.0,174.0,190.0,190.0
+Wisconsin,2008,Waukesha,Waukesha,2008-12-31,5.0,52.0,133.0,172.0,172.0
+Wisconsin,2009,Waukesha,Waukesha,2009-12-31,5.0,54.0,174.0,139.0,174.0
+Wisconsin,2010,Waukesha,Waukesha,2010-12-31,6.0,64.0,174.0,157.0,174.0
+Wisconsin,2011,Waukesha,Waukesha,2011-12-31,9.0,55.0,206.0,168.0,206.0
+Wisconsin,2012,Waukesha,Waukesha,2012-12-31,6.0,47.0,192.0,149.0,192.0
+Wisconsin,2013,Waukesha,Waukesha,2013-12-31,15.0,58.0,140.0,147.0,147.0
+Wisconsin,2014,Waukesha,Waukesha,2014-12-31,9.0,58.5,140.0,159.0,159.0
+Wisconsin,2015,Waukesha,Waukesha,2015-12-31,8.0,42.0,133.0,146.0,146.0
+Wisconsin,2016,Waukesha,Waukesha,2016-12-31,10.0,57.5,185.0,130.0,185.0
+Wisconsin,2017,Waukesha,Waukesha,2017-12-31,9.0,46.5,147.0,132.0,147.0
+Wisconsin,2018,Waukesha,Waukesha,2018-12-31,9.0,47.0,169.0,132.0,169.0
+Wisconsin,2019,Waukesha,Waukesha,2019-08-31,0.0,58.0,122.0,74.0,122.0
+Wyoming,2000,Teton,Not in a city,2000-12-31,0.0,0.0,161.0,0.0,161.0
+Wyoming,2001,Teton,Not in a city,2001-12-31,6.0,16.0,115.0,0.0,115.0
+Wyoming,2002,Teton,Not in a city,2002-12-31,9.0,36.0,156.0,153.0,156.0
+Wyoming,2003,Teton,Not in a city,2003-12-31,12.0,38.0,166.0,82.0,166.0
+Wyoming,2004,Teton,Riverton,2004-12-31,10.0,48.0,108.0,96.0,108.0
+Wyoming,2005,Weston,Riverton,2005-12-31,9.0,69.0,120.0,86.0,120.0
+Wyoming,2006,Weston,Not in a city,2006-12-31,6.0,60.0,140.0,101.0,140.0
+Wyoming,2007,Weston,Not in a city,2007-12-31,17.0,61.0,140.0,111.0,140.0
+Wyoming,2008,Weston,Not in a city,2008-12-31,8.0,55.0,163.0,162.0,163.0
+Wyoming,2009,Weston,Not in a city,2009-12-31,9.0,42.0,169.0,85.0,169.0
+Wyoming,2010,Weston,Not in a city,2010-12-31,7.0,58.0,115.0,104.0,115.0
+Wyoming,2011,Weston,Not in a city,2011-12-31,13.0,42.0,152.66666666666666,188.0,188.0
+Wyoming,2012,Weston,Not in a city,2012-12-31,11.0,55.0,135.5,200.0,200.0
+Wyoming,2013,Weston,Sinclair,2013-12-31,9.0,43.0,133.0,105.0,133.0
+Wyoming,2014,Weston,Sinclair,2014-12-31,7.0,47.0,100.0,200.0,200.0
+Wyoming,2015,Weston,Torrington,2015-12-31,6.0,49.0,105.0,96.0,105.0
+Wyoming,2016,Weston,Torrington,2016-12-31,5.0,57.0,97.0,111.0,111.0
+Wyoming,2017,Weston,Sinclair,2017-12-31,9.0,56.0,120.83333333333333,103.0,120.83333333333333
+Wyoming,2018,Weston,Sinclair,2018-12-31,5.0,49.0,115.0,120.0,120.0
+Wyoming,2019,Weston,Sinclair,2019-09-30,0.0,48.0,112.0,87.0,112.0
